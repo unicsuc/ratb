@@ -1,0 +1,68 @@
+name: Update M3U Playlists
+
+on:
+  schedule:
+    # Runs everyday at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger from the GitHub Actions tab
+
+jobs:
+  download-playlists:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run M3U Downloader
+        run: |
+          # Detect the location of the script and run it.
+          # This handles cases where the repository is cloned at the root or if the script is in a subdirectory.
+          SCRIPT_PATH=$(find . -name "download_playlists.py" | head -n 1)
+          if [ -z "$SCRIPT_PATH" ]; then
+            echo "Error: download_playlists.py not found in the repository!"
+            exit 1
+          fi
+          echo "Running script from: $SCRIPT_PATH"
+          python "$SCRIPT_PATH" --output playlists --threads 10
+
+      - name: Build and validate search index
+        env:
+          HUBLIVE_SERVERS_JSON_URL: ${{ vars.HUBLIVE_SERVERS_JSON_URL }}
+        run: |
+          if [ -z "$HUBLIVE_SERVERS_JSON_URL" ]; then
+            echo "Repository variable HUBLIVE_SERVERS_JSON_URL is required."
+            exit 1
+          fi
+          python build_search_index.py \
+            --playlists playlists \
+            --servers "$HUBLIVE_SERVERS_JSON_URL" \
+            --output search-index
+
+      - name: Commit and push playlists and search index
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add playlists/ search-index/manifest.json search-index/playlist_search.db.zip
+          
+          # Check if there are any changes to commit
+          if git diff --cached --quiet; then
+            echo "No playlist or search index changes. Skipping commit."
+          else
+            git commit -m "Auto-update playlists and search index [skip ci]"
+            git push
+          fi
