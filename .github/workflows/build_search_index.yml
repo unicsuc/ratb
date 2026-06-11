@@ -35,15 +35,12 @@ jobs:
 
       - name: Build and validate search index
         env:
-          HUBLIVE_SERVERS_JSON_URL: ${{ vars.HUBLIVE_SERVERS_JSON_URL }}
+          HUBLIVE_SERVERS_JSON_SOURCE: ${{ vars.HUBLIVE_SERVERS_JSON_URL || 'https://raw.githubusercontent.com/staycanuca/hub/main/servers.json' }}
         run: |
-          if [ -z "$HUBLIVE_SERVERS_JSON_URL" ]; then
-            echo "Repository variable HUBLIVE_SERVERS_JSON_URL is required."
-            exit 1
-          fi
+          echo "Using servers metadata from: $HUBLIVE_SERVERS_JSON_SOURCE"
           python build_search_index.py \
             --playlists playlists \
-            --servers "$HUBLIVE_SERVERS_JSON_URL" \
+            --servers "$HUBLIVE_SERVERS_JSON_SOURCE" \
             --output search-index
 
       - name: Commit generated index
