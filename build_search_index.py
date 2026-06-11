@@ -17,6 +17,9 @@ from urllib.parse import urlparse
 
 
 SCHEMA_VERSION = "2-standard-sqlite"
+DEFAULT_SERVERS_SOURCE = (
+    "https://raw.githubusercontent.com/staycanuca/hub/main/servers.json"
+)
 STREAM_RE = re.compile(r"[?&]stream=(\d+)")
 PLAYLIST_RE = re.compile(r"server_(\d+)\.m3u", re.IGNORECASE)
 SERVER_NAME_RE = re.compile(r"^Server\s+(\d+)(?:\s+.*)?$", re.IGNORECASE)
@@ -299,7 +302,14 @@ def main():
         description="Build HubLive's static SQLite playlist search index."
     )
     parser.add_argument("--playlists", default="playlists")
-    parser.add_argument("--servers", required=True, help="servers.json path or URL")
+    parser.add_argument(
+        "--servers",
+        default=DEFAULT_SERVERS_SOURCE,
+        help=(
+            "servers.json path or URL "
+            f"(default: {DEFAULT_SERVERS_SOURCE})"
+        ),
+    )
     parser.add_argument("--output", default="search-index")
     parser.add_argument(
         "--archive-url",
