@@ -1,11 +1,11 @@
 {
   "schema_version": "2-standard-sqlite",
-  "repo_commit": "df934d771b007376112644a546520c5ccc4f80cb",
-  "generated_at": "2026-06-11T09:17:45.301854+00:00",
+  "repo_commit": "083599787d1b1570b4856dd5690fa3b8909a9677",
+  "generated_at": "2026-06-12T05:16:46.643128+00:00",
   "playlist_count": 57,
-  "channel_count": 1227843,
+  "channel_count": 1308809,
   "archive": "playlist_search.db.zip",
   "archive_url": "https://raw.githubusercontent.com/unicsuc/ratb/main/search-index/playlist_search.db.zip",
-  "archive_size": 32973048,
-  "archive_sha256": "c423b1d26d10cb577cd765b5932fddee61aac5fd63def6730a2bdcdf58f428d4"
+  "archive_size": 35727981,
+  "archive_sha256": "9209bddb99b861b41aba043c23cec33a8c96c387b08c741e4b5f2e1e75677979"
 }
