@@ -16,11 +16,12 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 
-SCHEMA_VERSION = "2-standard-sqlite"
+SCHEMA_VERSION = "3-catalog-sqlite"
 DEFAULT_SERVERS_SOURCE = (
     "https://raw.githubusercontent.com/staycanuca/hub/main/servers.json"
 )
 STREAM_RE = re.compile(r"[?&]stream=(\d+)")
+EXTINF_ATTR_RE = re.compile(r'([\w-]+)="([^"]*)"')
 PLAYLIST_RE = re.compile(r"server_(\d+)\.m3u", re.IGNORECASE)
 SERVER_NAME_RE = re.compile(r"^Server\s+(\d+)(?:\s+.*)?$", re.IGNORECASE)
 
@@ -106,9 +107,29 @@ def create_schema(connection):
             name TEXT NOT NULL,
             name_search TEXT NOT NULL,
             playlist TEXT NOT NULL,
-            stream_id TEXT NOT NULL
+            category_id TEXT NOT NULL,
+            stream_id TEXT NOT NULL,
+            logo_id INTEGER,
+            tvg_id TEXT NOT NULL,
+            position INTEGER NOT NULL
         );
         CREATE INDEX idx_channels_playlist ON channels(playlist);
+        CREATE INDEX idx_channels_category
+            ON channels(playlist, category_id, position);
+        CREATE TABLE categories(
+            category_id TEXT PRIMARY KEY,
+            playlist TEXT NOT NULL,
+            title TEXT NOT NULL,
+            title_search TEXT NOT NULL,
+            position INTEGER NOT NULL,
+            channel_count INTEGER NOT NULL
+        );
+        CREATE INDEX idx_categories_playlist
+            ON categories(playlist, position);
+        CREATE TABLE logos(
+            logo_id INTEGER PRIMARY KEY,
+            url TEXT NOT NULL UNIQUE
+        );
         CREATE TABLE playlist_metadata(
             playlist TEXT PRIMARY KEY,
             server_id TEXT NOT NULL,
@@ -133,42 +154,114 @@ def first_stream_host(text):
     return ""
 
 
-def insert_playlist(connection, playlist, content):
+def category_id_for(playlist, title):
+    digest = hashlib.sha1(
+        f"{playlist}\0{title}".encode("utf-8", errors="ignore")
+    ).hexdigest()[:16]
+    return f"ratb:{digest}"
+
+
+def insert_playlist(connection, playlist, content, logo_cache):
     rows = []
     inserted = 0
+    skipped_without_stream_id = 0
     pending = None
     text = content.decode("utf-8", errors="ignore")
+    category_data = {}
+    channel_position = 0
 
     for raw_line in text.splitlines():
         line = raw_line.strip()
         if line.startswith("#EXTINF"):
-            pending = line
+            attributes = dict(EXTINF_ATTR_RE.findall(line))
+            pending = (
+                line.rsplit(",", 1)[-1].strip(),
+                attributes,
+            )
             continue
         if not pending or not line or line.startswith("#"):
             continue
 
         stream_match = STREAM_RE.search(line)
         if stream_match:
-            name = pending.rsplit(",", 1)[-1].strip()
+            name, attributes = pending
+            category_title = (
+                attributes.get("group-title") or "Uncategorized"
+            ).strip() or "Uncategorized"
+            category_id = category_id_for(playlist, category_title)
+            if category_id not in category_data:
+                category_data[category_id] = {
+                    "title": category_title,
+                    "position": len(category_data),
+                    "channel_count": 0,
+                }
+            category_data[category_id]["channel_count"] += 1
+
+            logo_url = (attributes.get("tvg-logo") or "").strip()
+            logo_id = None
+            if logo_url:
+                logo_id = logo_cache.get(logo_url)
+                if logo_id is None:
+                    cursor = connection.execute(
+                        "INSERT OR IGNORE INTO logos(url) VALUES(?)",
+                        (logo_url,),
+                    )
+                    if cursor.lastrowid:
+                        logo_id = cursor.lastrowid
+                    else:
+                        logo_id = connection.execute(
+                            "SELECT logo_id FROM logos WHERE url = ?",
+                            (logo_url,),
+                        ).fetchone()[0]
+                    logo_cache[logo_url] = logo_id
+
             rows.append(
                 (
                     name,
                     " ".join(name.casefold().split()),
                     playlist,
+                    category_id,
                     stream_match.group(1),
+                    logo_id,
+                    (attributes.get("tvg-id") or "").strip(),
+                    channel_position,
                 )
             )
+            channel_position += 1
+        else:
+            skipped_without_stream_id += 1
         pending = None
 
         if len(rows) >= 10000:
-            connection.executemany("INSERT INTO channels VALUES(?,?,?,?)", rows)
+            connection.executemany(
+                "INSERT INTO channels VALUES(?,?,?,?,?,?,?,?)",
+                rows,
+            )
             inserted += len(rows)
             rows = []
 
     if rows:
-        connection.executemany("INSERT INTO channels VALUES(?,?,?,?)", rows)
+        connection.executemany(
+            "INSERT INTO channels VALUES(?,?,?,?,?,?,?,?)",
+            rows,
+        )
         inserted += len(rows)
-    return inserted
+
+    connection.executemany(
+        "INSERT INTO categories VALUES(?,?,?,?,?,?)",
+        [
+            (
+                category_id,
+                playlist,
+                data["title"],
+                " ".join(data["title"].casefold().split()),
+                data["position"],
+                data["channel_count"],
+            )
+            for category_id, data in category_data.items()
+        ],
+    )
+    return inserted, len(category_data), skipped_without_stream_id
 
 
 def build_index(playlists_dir, servers_source, output_dir, archive_url):
@@ -194,8 +287,11 @@ def build_index(playlists_dir, servers_source, output_dir, archive_url):
         connection = sqlite3.connect(temp_database)
         create_schema(connection)
         channel_count = 0
+        category_count = 0
+        skipped_without_stream_id = 0
         playlist_count = 0
         skipped = []
+        logo_cache = {}
 
         try:
             for playlist_path in playlist_paths:
@@ -218,7 +314,12 @@ def build_index(playlists_dir, servers_source, output_dir, archive_url):
                     )
                     continue
 
-                inserted = insert_playlist(connection, playlist_path.name, content)
+                inserted, inserted_categories, skipped_streams = insert_playlist(
+                    connection,
+                    playlist_path.name,
+                    content,
+                    logo_cache,
+                )
                 if not inserted:
                     skipped.append(f"{playlist_path.name}: no searchable channels")
                     continue
@@ -236,12 +337,19 @@ def build_index(playlists_dir, servers_source, output_dir, archive_url):
                     ),
                 )
                 channel_count += inserted
+                category_count += inserted_categories
+                skipped_without_stream_id += skipped_streams
                 playlist_count += 1
-                print(f"Indexed {playlist_path.name}: {inserted} channels")
+                print(
+                    f"Indexed {playlist_path.name}: {inserted} channels, "
+                    f"{inserted_categories} categories"
+                )
 
             metadata = {
                 "schema_version": SCHEMA_VERSION,
                 "channel_count": str(channel_count),
+                "category_count": str(category_count),
+                "skipped_without_stream_id": str(skipped_without_stream_id),
                 "playlist_count": str(playlist_count),
                 "repo_commit": repo_commit(playlists_dir.parent),
             }
@@ -275,6 +383,8 @@ def build_index(playlists_dir, servers_source, output_dir, archive_url):
             "generated_at": datetime.now(timezone.utc).isoformat(),
             "playlist_count": playlist_count,
             "channel_count": channel_count,
+            "category_count": category_count,
+            "skipped_without_stream_id": skipped_without_stream_id,
             "archive": archive_path.name,
             "archive_url": archive_url,
             "archive_size": temp_archive.stat().st_size,
@@ -292,7 +402,8 @@ def build_index(playlists_dir, servers_source, output_dir, archive_url):
     for message in skipped:
         print(f"Skipped: {message}")
     print(
-        f"Built {playlist_count} playlists, {channel_count} channels, "
+        f"Built {playlist_count} playlists, {category_count} categories, "
+        f"{channel_count} channels, "
         f"SHA-256 {archive_sha256}"
     )
 

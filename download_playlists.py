@@ -13,6 +13,7 @@ from requests.adapters import HTTPAdapter
 
 USER_AGENT = "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3"
 TIMEOUT = 8
+SERVER_NAME_RE = re.compile(r"^Server\s+(\d+)(?:\s+.*)?$", re.IGNORECASE)
 
 def normalize_mac(mac: str) -> str:
     """Normalize MAC formatting to XX:XX:XX:XX:XX:XX."""
@@ -42,6 +43,13 @@ def sanitize_filename(name: str) -> str:
     name = re.sub(r'[\\/*?:"<>|]', "", name)
     name = name.replace(" ", "_")
     return name.lower()
+
+
+def playlist_filename(server_name: str) -> str:
+    match = SERVER_NAME_RE.match((server_name or "").strip())
+    if match:
+        return f"server_{int(match.group(1))}.m3u"
+    return f"{sanitize_filename(server_name)}.m3u"
 
 def try_download_playlist(portal_url: str, mac: str, stop_event: threading.Event) -> tuple[bool, str | None]:
     """Test Stalker portal MAC address and return the M3U content if valid and has channels."""
@@ -299,8 +307,7 @@ def process_server(server: dict, output_dir: str, max_threads_per_server: int) -
 
     if m3u_content:
         # Save M3U to output directory
-        sanitized_name = sanitize_filename(server_name)
-        filename = f"{sanitized_name}.m3u"
+        filename = playlist_filename(server_name)
         filepath = os.path.join(output_dir, filename)
         
         with open(filepath, "w", encoding="utf-8") as f:
@@ -314,7 +321,7 @@ def process_server(server: dict, output_dir: str, max_threads_per_server: int) -
 
 def main():
     parser = argparse.ArgumentParser(description="Download Stalker IPTV M3U Playlists")
-    parser.add_argument("--url", default="https://raw.githubusercontent.com/staycanuca/hub/main/_tools/servers.json", 
+    parser.add_argument("--url", default="https://raw.githubusercontent.com/staycanuca/hub/main/servers.json",
                         help="URL of the servers.json config file")
     parser.add_argument("--output", default="playlists", help="Directory where M3U files should be saved")
     parser.add_argument("--threads", type=int, default=10, help="Max parallel MAC tests per server")
