@@ -12,6 +12,8 @@ permissions:
 jobs:
   download-playlists:
     runs-on: ubuntu-latest
+    env:
+      HUBLIVE_SERVERS_JSON_SOURCE: ${{ vars.HUBLIVE_SERVERS_JSON_URL || 'https://raw.githubusercontent.com/staycanuca/hub/main/servers.json' }}
 
     steps:
       - name: Checkout repository
@@ -39,11 +41,13 @@ jobs:
             exit 1
           fi
           echo "Running script from: $SCRIPT_PATH"
-          python "$SCRIPT_PATH" --output playlists --threads 10
+          echo "Using servers metadata from: $HUBLIVE_SERVERS_JSON_SOURCE"
+          python "$SCRIPT_PATH" \
+            --url "$HUBLIVE_SERVERS_JSON_SOURCE" \
+            --output playlists \
+            --threads 10
 
       - name: Build and validate search index
-        env:
-          HUBLIVE_SERVERS_JSON_SOURCE: ${{ vars.HUBLIVE_SERVERS_JSON_URL || 'https://raw.githubusercontent.com/staycanuca/hub/main/servers.json' }}
         run: |
           echo "Using servers metadata from: $HUBLIVE_SERVERS_JSON_SOURCE"
           python build_search_index.py \
