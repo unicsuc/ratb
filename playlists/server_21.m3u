@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/k5m0hDQJ/14.png" tvg-id="307587",14 - FIFA World Cup 2026 - Belgia vs Egipt - 15.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307587&extension=ts
 #EXTINF:-1 group-title="✰ RO - Sport ✰" tvg-logo="https://i.postimg.cc/mZJFfzLk/images-(3).jpg" tvg-id="307576",Ufc Freedom HD
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307576&extension=ts
 #EXTINF:-1 group-title="✰ RO - Reality Series ✰" tvg-logo="https://i.postimg.cc/rm2jsfxz/image.png" tvg-id="307563",Baieti De Oras
@@ -299,6 +301,12 @@ http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307535&ex
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307574&extension=ts
 #EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/VLD79PXX/10.png" tvg-id="307578",10 - FIFA World Cup - 2026 Olanda vs Japonia - 14.06.2026
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307578&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/3w0HvgrP/11.png" tvg-id="307584",11 - FIFA World Cup 2026 - Coasta de Fildes vs Ecuador - 15.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307584&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/fTH4qHV4/12.png" tvg-id="307585",12 - FIFA World Cup 2026 - Suedia vs Tunisia - 15.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307585&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/Vkb794MT/13.png" tvg-id="307586",13 - FIFA World Cup 2026 - Spania vs Insulele Capului Verde - 15.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307586&extension=ts
 #EXTINF:-1 group-title="✰ RO - COPII ✰" tvg-id="193",▁ ▂ ▄ ▅ Romania Kids ▅ ▄ ▂ ▁
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=193&extension=ts
 #EXTINF:-1 group-title="✰ RO - COPII ✰" tvg-logo="https://i.postimg.cc/NMGbBH48/photo-2025-11-13-14-51-53.jpg" tvg-id="270852",Dragon Masha si Ursul HD
