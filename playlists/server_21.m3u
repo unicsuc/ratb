@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/k5m0hDQJ/14.png" tvg-id="307587",14 - FIFA World Cup 2026 - Belgia vs Egipt - 15.06.2026
-http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307587&extension=ts
-#EXTINF:-1 group-title="✰ RO - Sport ✰" tvg-logo="https://i.postimg.cc/mZJFfzLk/images-(3).jpg" tvg-id="307576",Ufc Freedom HD
-http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307576&extension=ts
 #EXTINF:-1 group-title="✰ RO - Reality Series ✰" tvg-logo="https://i.postimg.cc/rm2jsfxz/image.png" tvg-id="307563",Baieti De Oras
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307563&extension=ts
 #EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="https://i.postimg.cc/TYSqr9RS/2026-fifa-world-cup-logo-png-seeklogo-624583.png" tvg-id="307465",Fifa World cup 1 HD
@@ -299,7 +295,7 @@ http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307534&ex
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307535&extension=ts
 #EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/7YchdfkZ/image9.png" tvg-id="307574",9 - FIFA World Cup 2026 - Germania vs Curacao - 14.06.2026
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307574&extension=ts
-#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/VLD79PXX/10.png" tvg-id="307578",10 - FIFA World Cup - 2026 Olanda vs Japonia - 14.06.2026
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/VLD79PXX/10.png" tvg-id="307578",10 - FIFA World Cup 2026 - Olanda vs Japonia - 14.06.2026
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307578&extension=ts
 #EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/3w0HvgrP/11.png" tvg-id="307584",11 - FIFA World Cup 2026 - Coasta de Fildes vs Ecuador - 15.06.2026
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307584&extension=ts
@@ -307,6 +303,12 @@ http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307584&ex
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307585&extension=ts
 #EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/Vkb794MT/13.png" tvg-id="307586",13 - FIFA World Cup 2026 - Spania vs Insulele Capului Verde - 15.06.2026
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307586&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/k5m0hDQJ/14.png" tvg-id="307587",14 - FIFA World Cup 2026 - Belgia vs Egipt - 15.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307587&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/Y0Sk25WD/15.png" tvg-id="307588",15 - FIFA World Cup 2026 - Arabia Saudita vs Uruguay - 16.06.20264
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307588&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/x1FSgxBZ/16.png" tvg-id="307589",16 - FIFA World Cup 2026 - Iran vs Noua Zeelanda - 16.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307589&extension=ts
 #EXTINF:-1 group-title="✰ RO - COPII ✰" tvg-id="193",▁ ▂ ▄ ▅ Romania Kids ▅ ▄ ▂ ▁
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=193&extension=ts
 #EXTINF:-1 group-title="✰ RO - COPII ✰" tvg-logo="https://i.postimg.cc/NMGbBH48/photo-2025-11-13-14-51-53.jpg" tvg-id="270852",Dragon Masha si Ursul HD
@@ -969,12 +971,6 @@ http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=108343&ex
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=60117&extension=ts
 #EXTINF:-1 group-title="✰ RO - Documentare ✰" tvg-logo="http://5.189.181.7/extract/animallifehd.png" tvg-id="122961",AnimaLife HD
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=122961&extension=ts
-#EXTINF:-1 group-title="✰ RO - Documentare ✰" tvg-logo="https://i.postimg.cc/qqwKdQQW/vip-Docu-Wild-hd.png" tvg-id="307575",Vip Docu Wild HD
-http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307575&extension=ts
-#EXTINF:-1 group-title="✰ RO - Documentare ✰" tvg-logo="https://i.postimg.cc/KvXcZtdk/vip-Docu-ocean-hd.png" tvg-id="307573",Vip Docu Ocean HD
-http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307573&extension=ts
-#EXTINF:-1 group-title="✰ RO - Documentare ✰" tvg-logo="https://i.postimg.cc/brxTSQLv/vip-Docu-Sci-Fi-hd.png" tvg-id="307572",Vip Docu Sci-Fi HD
-http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307572&extension=ts
 #EXTINF:-1 group-title="✰ RO - Documentare ✰" tvg-logo="http://5.189.181.7/extract/animalplanethd.png" tvg-id="35",Animal Planet ᴴᴰ
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=35&extension=ts
 #EXTINF:-1 group-title="✰ RO - Documentare ✰" tvg-logo="http://5.189.181.7/extract/bbcearthhd.png" tvg-id="30",BBC Earth ᴴᴰ
@@ -1067,6 +1063,20 @@ http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=147&exten
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=149&extension=ts
 #EXTINF:-1 group-title="✰ RO - Documentare ✰" tvg-logo="https://i.postimg.cc/28k4PYfC/photo_2025_12_14_22_01_25.jpg" tvg-id="274069",Vip Documentare 3 HD
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=274069&extension=ts
+#EXTINF:-1 group-title="✰ RO - Documentare ✰" tvg-logo="https://i.postimg.cc/qqwKdQQW/vip-Docu-Wild-hd.png" tvg-id="307575",Vip Docu Wild HD
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307575&extension=ts
+#EXTINF:-1 group-title="✰ RO - Documentare ✰" tvg-logo="https://i.postimg.cc/KvXcZtdk/vip-Docu-ocean-hd.png" tvg-id="307573",Vip Docu Ocean HD
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307573&extension=ts
+#EXTINF:-1 group-title="✰ RO - Documentare ✰" tvg-logo="https://i.postimg.cc/brxTSQLv/vip-Docu-Sci-Fi-hd.png" tvg-id="307572",Vip Docu Sci-Fi HD
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307572&extension=ts
+#EXTINF:-1 group-title="✰ RO - Documentare ✰" tvg-logo="https://i.postimg.cc/5tQLttzK/vip-Docu-food-hd.png" tvg-id="307593",Vip Docu Food HD
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307593&extension=ts
+#EXTINF:-1 group-title="✰ RO - Documentare ✰" tvg-logo="https://i.postimg.cc/BQ30Y1bG/vip-Docu-crime-hd.png" tvg-id="307592",Vip Docu Crime HD
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307592&extension=ts
+#EXTINF:-1 group-title="✰ RO - Documentare ✰" tvg-logo="https://i.postimg.cc/mrHCgqs0/vip-Docu-mistery-hd.png" tvg-id="307591",Vip Docu Mistery HD
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307591&extension=ts
+#EXTINF:-1 group-title="✰ RO - Documentare ✰" tvg-logo="https://i.postimg.cc/SNh8NVTG/vip-Docu-auto-hd.png" tvg-id="307590",Vip Docu Auto HD
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307590&extension=ts
 #EXTINF:-1 group-title="✰ RO - Muzica ✰" tvg-id="272854",MegaVip DJ Club { HD }
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=272854&extension=ts
 #EXTINF:-1 group-title="✰ RO - Muzica ✰" tvg-logo="http://5.189.181.7/extract/manele4k.png" tvg-id="272053",Manele Deluxe 4K
