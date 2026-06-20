@@ -31,9 +31,9 @@ http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=68096&ext
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=5&extension=ts
 #EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="http://5.189.181.7/extract/kanaldhd.png" tvg-id="1353",FIBRA: Kanal D FHD
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=1353&extension=ts
-#EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="http://5.189.181.7/extract/kanaldhd.png" tvg-id="14",Kanal D 2ᴴᴰ
+#EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="http://5.189.181.7/extract/kanald2hd.png" tvg-id="14",Kanal D 2ᴴᴰ
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=14&extension=ts
-#EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="http://5.189.181.7/extract/kanaldhd.png" tvg-id="243",Kanal D 2
+#EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="http://5.189.181.7/extract/kanald2hd.png" tvg-id="243",Kanal D 2
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=243&extension=ts
 #EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="http://5.189.181.7/extract/primatv.png" tvg-id="150597",Prima TV FHD
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=150597&extension=ts
@@ -57,9 +57,9 @@ http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=84&extens
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=114001&extension=ts
 #EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="http://5.189.181.7/extract/tvrinternational.png" tvg-id="89",Tvr International
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=89&extension=ts
-#EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="http://5.189.181.7/extract/progoldhd.png" tvg-id="68802",Acasa Gold HD
+#EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="http://5.189.181.7/extract/acasagoldhd.png" tvg-id="68802",Acasa Gold HD
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=68802&extension=ts
-#EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="http://5.189.181.7/extract/progoldhd.png" tvg-id="138772",FIBRA: Acasa Gold FHD
+#EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="http://5.189.181.7/extract/acasagoldhd.png" tvg-id="138772",FIBRA: Acasa Gold FHD
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=138772&extension=ts
 #EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="http://5.189.181.7/extract/acasahd.png" tvg-id="15",Acasaᴴᴰ
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=15&extension=ts
@@ -119,7 +119,7 @@ http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=77&extens
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=78&extension=ts
 #EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="http://5.189.181.7/extract/acasa.png" tvg-id="85",Acasa
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=85&extension=ts
-#EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="http://5.189.181.7/extract/progold.png" tvg-id="86",Acasa Gold
+#EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="http://5.189.181.7/extract/acasagold.png" tvg-id="86",Acasa Gold
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=86&extension=ts
 #EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="http://5.189.181.7/extract/antenastars.png" tvg-id="79",Antena Stars
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=79&extension=ts
@@ -309,6 +309,22 @@ http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307587&ex
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307588&extension=ts
 #EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/x1FSgxBZ/16.png" tvg-id="307589",16 - FIFA World Cup 2026 - Iran vs Noua Zeelanda - 16.06.2026
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307589&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/VsB6R50T/17.png" tvg-id="307642",17 - FIFA World Cup 2026 - Franta vs Senegal - 16.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307642&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/GhHWp5R9/18.png" tvg-id="307643",18 - FIFA World Cup 2026 - Iraq.vs.Norvegia.17.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307643&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/qvBjRt24/19.png" tvg-id="307644",19 - FIFA World Cup 2026 - Argentina vs Algeria - 17.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307644&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/dV7Z4wY1/20.png" tvg-id="307645",20 - FIFA World Cup 2026 - Austria vs Iordania - 17.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307645&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/j5JrF3jN/21.png" tvg-id="307646",21 - FIFA World Cup 2026 - Portugalia vs R.D.Congo - 17.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307646&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/jjQBDWjy/22.png" tvg-id="307651",22 - FIFA World Cup 2026 - Anglia vs Croatia - 17.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307651&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/Z5yWzmqS/23.png" tvg-id="307652",23 - FIFA World Cup 2026 - Ghana vs Panama - 18.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307652&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/vZmp48Vf/24.png" tvg-id="307653",24 - FIFA World Cup 2026 - Uzbekistan vs Columbia - 18.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307653&extension=ts
 #EXTINF:-1 group-title="✰ RO - COPII ✰" tvg-id="193",▁ ▂ ▄ ▅ Romania Kids ▅ ▄ ▂ ▁
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=193&extension=ts
 #EXTINF:-1 group-title="✰ RO - COPII ✰" tvg-logo="https://i.postimg.cc/NMGbBH48/photo-2025-11-13-14-51-53.jpg" tvg-id="270852",Dragon Masha si Ursul HD
@@ -1349,7 +1365,7 @@ http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270713&ex
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270710&extension=ts
 #EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/kanaldhd.png" tvg-id="270711",Kanal D FHD
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270711&extension=ts
-#EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/kanaldhd.png" tvg-id="270708",Kanal D 2ᴴᴰ
+#EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/kanald2hd.png" tvg-id="270708",Kanal D 2ᴴᴰ
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270708&extension=ts
 #EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/primatv.png" tvg-id="270704",Prima Tv HD
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270704&extension=ts
@@ -1359,7 +1375,7 @@ http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270706&ex
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270705&extension=ts
 #EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/acasahd.png" tvg-id="270692",Acasaᴴᴰ
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270692&extension=ts
-#EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/progoldhd.png" tvg-id="270694",Acasa Gold HD
+#EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/acasagoldhd.png" tvg-id="270694",Acasa Gold HD
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270694&extension=ts
 #EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/happyhd.png" tvg-id="270688",Happy Channelᴴᴰ
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270688&extension=ts
@@ -1527,7 +1543,7 @@ http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270709&ex
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270703&extension=ts
 #EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/tvrhd.png" tvg-id="270700",FIBRA: TVR 1 FHD
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270700&extension=ts
-#EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/progoldhd.png" tvg-id="270693",FIBRA: Acasa Gold FHD
+#EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/acasagoldhd.png" tvg-id="270693",FIBRA: Acasa Gold FHD
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270693&extension=ts
 #EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/happyhd.png" tvg-id="270686",FIBRA: Happy Channel FHD
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270686&extension=ts
@@ -2021,7 +2037,7 @@ http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270677&ex
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270663&extension=ts
 #EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/kanaldhd.png" tvg-id="270291",Kanal D FHD (H265)
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270291&extension=ts
-#EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/kanaldhd.png" tvg-id="270707",Kanal D 2
+#EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/kanald2hd.png" tvg-id="270707",Kanal D 2
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270707&extension=ts
 #EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/nationaltv.png" tvg-id="270655",National Tv
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270655&extension=ts
@@ -2029,7 +2045,7 @@ http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270655&ex
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270656&extension=ts
 #EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/acasa.png" tvg-id="270662",Acasa
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270662&extension=ts
-#EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/progold.png" tvg-id="270661",Acasa Gold
+#EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/acasagold.png" tvg-id="270661",Acasa Gold
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270661&extension=ts
 #EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-logo="http://5.189.181.7/extract/antenastars.png" tvg-id="270660",Antena Stars
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=270660&extension=ts
