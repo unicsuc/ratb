@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="✰ Romania - Full ✰" tvg-id="307672",Romania Vip Movies 4K
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307672&extension=ts
 #EXTINF:-1 group-title="✰ RO - Reality Series ✰" tvg-logo="https://i.postimg.cc/rm2jsfxz/image.png" tvg-id="307563",Baieti De Oras
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307563&extension=ts
 #EXTINF:-1 group-title="✰ RO - Generale ✰" tvg-logo="https://i.postimg.cc/TYSqr9RS/2026-fifa-world-cup-logo-png-seeklogo-624583.png" tvg-id="307465",Fifa World cup 1 HD
@@ -325,6 +327,16 @@ http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307651&ex
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307652&extension=ts
 #EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/vZmp48Vf/24.png" tvg-id="307653",24 - FIFA World Cup 2026 - Uzbekistan vs Columbia - 18.06.2026
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307653&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/MK8RKNR3/25.png" tvg-id="307667",25 - FIFA World Cup 2026 - Cehia vs Africa de Sud - 18.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307667&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/c49s58sC/26.png" tvg-id="307668",26 - FIFA World Cup 2026 - Elvetia vs Bosnia Hertegovina - 18.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307668&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/sfH8kPhS/27.png" tvg-id="307669",27 - FIFA World Cup 2026 - Canada vs Qatar - 19.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307669&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/vHWKcJKQ/28.png" tvg-id="307670",28 - FIFA World Cup 2026 - Mexic vs Coreea de Sud - 18.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307670&extension=ts
+#EXTINF:-1 group-title="✰ RO - Fifa World Cup 2026✰" tvg-logo="https://i.postimg.cc/Cxrs1JwB/29.png" tvg-id="307671",29 - FIFA World Cup 2026 - SUA vs Australia - 19.06.2026
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=307671&extension=ts
 #EXTINF:-1 group-title="✰ RO - COPII ✰" tvg-id="193",▁ ▂ ▄ ▅ Romania Kids ▅ ▄ ▂ ▁
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:61:07:50&stream=193&extension=ts
 #EXTINF:-1 group-title="✰ RO - COPII ✰" tvg-logo="https://i.postimg.cc/NMGbBH48/photo-2025-11-13-14-51-53.jpg" tvg-id="270852",Dragon Masha si Ursul HD
