@@ -11845,442 +11845,340 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=634845&ex
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=634841&extension=ts
 #EXTINF:-1 group-title="ES ✨ MUSIC" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/CLASSICA.png" tvg-id="634791",CLASSICA
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=634791&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/rtp-1-pt.png" tvg-id="571891",PT: RTP 1 HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571891&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/rtp-2-pt.png" tvg-id="571890",PT: RTP 2 HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571890&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/fox-pt.png" tvg-id="571889",PT: FOX HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571889&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/fox-movies-pt.png" tvg-id="571888",PT: FOX MOVIES HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571888&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sic-pt.png" tvg-id="571887",PT: SIC HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571887&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://excpicon.cfd/parsx/pt/sic-mulher-pt.png" tvg-id="571886",PT: SIC MULHER HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571886&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://excpicon.cfd/parsx/pt/sic-noticias-pt.png" tvg-id="571885",PT: SIC NOTICIAS HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571885&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/canal11-pt.png" tvg-id="571884",PT: CANAL 11 HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571884&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/globo-internacional-pt.png" tvg-id="571883",PT: GLOBO HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571883&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/canal-hollywood-pt.png" tvg-id="571882",PT: HOLLYWOOD HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571882&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/a-bola-tv-pt.png" tvg-id="571881",PT: A BOLA TV HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571881&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/tvi-ficcao-pt.png" tvg-id="571880",PT: TVI FICÇÃO HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571880&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://r.resimlink.com/qYrTehxQtD.png" tvg-id="571879",PT: NOS STUDIOS HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571879&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/axn-white-pt.png" tvg-id="571878",PT: AXN WHITE HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571878&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/cmtv-pt.png" tvg-id="571877",PT: CMTV HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571877&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" tvg-id="811705",PT: CNN FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=811705&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" tvg-id="811704",PT: CNN HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=811704&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" tvg-id="811703",PT: CNN SD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=811703&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://r.resimlink.com/STG8DC.webp" tvg-id="868999",PT: SIC NOVELAS
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=868999&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/tvcine-top-pt.png" tvg-id="571876",PT: TV CINE TOP HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571876&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/germany/eentertainment.png" tvg-id="571875",PT: E! ENTERTAINMENT HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571875&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/germany/discoverychannel.png" tvg-id="571874",PT: DISCOVERY CHANNEL HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571874&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/germany/nat-geo-wild-de.png" tvg-id="571873",PT: NAT GEO WILD HEVC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571873&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/a-bola-tv-pt.png" tvg-id="571872",PT: A BOLA TV HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571872&extension=ts
-#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/a-bola-tv-pt.png" tvg-id="571871",PT: A BOLA TV
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571871&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/rtp-1-pt.png" tvg-id="571870",PT: RTP 1 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571870&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/rtp-1-pt.png" tvg-id="571869",PT: RTP 1 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571869&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/rtp-2-pt.png" tvg-id="571868",PT: RTP 2 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571868&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/rtp-2-pt.png" tvg-id="571867",PT: RTP 2 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571867&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/rtp-3-pt.png" tvg-id="571866",PT: RTP 3 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571866&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/rtp-3-pt.png" tvg-id="571865",PT: RTP 3 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571865&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/rtp-africa-pt.png" tvg-id="571864",PT: RTP AFRICA HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571864&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/rtp-africa-pt.png" tvg-id="571863",PT: RTP AFRICA FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571863&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/rtp-acores-pt.png" tvg-id="571862",PT: RTP ACORES
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571862&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/rtp-madeira-pt.png" tvg-id="571861",PT: RTP MADEIRA
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571861&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/rtp-memoria-pt.png" tvg-id="571860",PT: RTP MEMORIA
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571860&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/TVI.png" tvg-id="571859",PT: TVI HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571859&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/TVI.png" tvg-id="571858",PT: TVI FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571858&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/tvi-24-pt.png" tvg-id="571857",PT: TVI 24 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571857&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/tvi-24-pt.png" tvg-id="571856",PT: TVI 24 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571856&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/tvi-ficcao-pt.png" tvg-id="571855",TVI FICÇAO HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571855&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/tvi-ficcao-pt.png" tvg-id="571854",PT: TVI FICÇAO FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571854&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/tvi-reality-pt.png" tvg-id="571853",PT: TVI REALITY
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571853&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/tvi-reality-pt.png" tvg-id="571852",PT: TVI REALITY MOSAICO
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571852&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/tvi-reality-pt.png" tvg-id="571851",PT: TVI REALITY - O AMOR ACONTECE
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571851&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sic-pt.png" tvg-id="571850",PT: SIC HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571850&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sic-pt.png" tvg-id="571849",PT: SIC FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571849&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/sic-noticias-pt.png" tvg-id="571848",PT: SIC NOTICIAS HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571848&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/sic-noticias-pt.png" tvg-id="571847",PT: SIC NOTICIAS FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571847&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sic-radical-pt.png" tvg-id="571846",PT: SIC RADICAL HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571846&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sic-radical-pt.png" tvg-id="571845",PT: SIC RADICAL FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571845&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/sic-caras-pt.png" tvg-id="571844",PT: SIC CARAS HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571844&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/sic-caras-pt.png" tvg-id="571843",PT: SIC CARAS FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571843&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/sic-mulher-pt.png" tvg-id="571842",PT: SIC MULHER FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571842&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/sic-mulher-pt.png" tvg-id="571841",PT: SIC MULHER HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571841&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/cmtv-pt.png" tvg-id="571840",PT: CMTV HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571840&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/cmtv-pt.png" tvg-id="571839",PT: CMTV FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571839&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/porto-canal-pt.png" tvg-id="571838",PT: PORTO CANAL FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571838&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/porto-canal-pt.png" tvg-id="571837",PT: PORTO CANAL HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571837&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://r.resimlink.com/i4EIB.png" tvg-id="571836",PT: TV RECORD SD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571836&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://r.resimlink.com/i4EIB.png" tvg-id="571835",PT: TV RECORD FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571835&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://r.resimlink.com/i4EIB.png" tvg-id="571834",PT: RECORD NEWS
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571834&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/globo-internacional-pt.png" tvg-id="571833",PT: TV GLOBO HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571833&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/globo-internacional-pt.png" tvg-id="571832",PT: TV GLOBO FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571832&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/globo-internacional-pt.png" tvg-id="571831",PT: TV GLOBO NOW HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571831&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/globo-internacional-pt.png" tvg-id="571830",PT: TV GLOBO NOW FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571830&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/globo-internacional-pt.png" tvg-id="571829",PT: TV GLOBO INTER
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571829&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://r.resimlink.com/1QXBD.png" tvg-id="571828",PT: ZAP VIVA HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571828&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://r.resimlink.com/1QXBD.png" tvg-id="571827",PT: ZAP VIVA FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571827&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://r.resimlink.com/-gfKq.png" tvg-id="571826",PT: CANÇAO NOVA
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571826&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/24-kitchen-pt.png" tvg-id="571825",PT: 24 KITCHEN HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571825&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/24-kitchen-pt.png" tvg-id="571824",PT: 24 KITCHEN FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571824&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/canal-q-pt.png" tvg-id="571823",PT: CANAL Q
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571823&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/CASAECOZINHA.png" tvg-id="571822",PT: CASA E COZINHA HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571822&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/CASAECOZINHA.png" tvg-id="571821",PT: CASA E COZINHA
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571821&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/CBS%20REALITY.png" tvg-id="571820",PT: CBS REALITY
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571820&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/germany/e-entertainment-de.png" tvg-id="571819",E ENTERTAINMENT HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571819&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/germany/e-entertainment-de.png" tvg-id="571818",PT: E ENTERTAINMENT
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571818&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/FASHION%20TV.png" tvg-id="571817",PT: FASHION TV
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571817&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/FOX%20NEWS.png" tvg-id="571816",PT: FOX NEWS
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571816&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/BLOOMBERG.png" tvg-id="571815",PT: BLOOMBERG
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571815&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://excpicon.cfd/parsx/pt/TVE%2024%20HORAS.png" tvg-id="571814",PT: TVE 24H
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571814&extension=ts
-#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://r.resimlink.com/2w3i1.jpg" tvg-id="571812",PT: TPA
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571812&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn-de.png" tvg-id="795901",PT: DAZN 1 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795901&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn-de.png" tvg-id="795900",PT: DAZN 1 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795900&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn-de.png" tvg-id="795899",PT: DAZN 2 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795899&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn-de.png" tvg-id="795898",PT: DAZN 2 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795898&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn-de.png" tvg-id="795897",PT: DAZN 3 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795897&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn-de.png" tvg-id="795896",PT: DAZN 3 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795896&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn-de.png" tvg-id="795895",PT: DAZN 4 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795895&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn-de.png" tvg-id="795894",PT: DAZN 4 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795894&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn-de.png" tvg-id="795893",PT: DAZN 5 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795893&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn-de.png" tvg-id="795892",PT: DAZN 5 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795892&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://excpicon.cfd/parsx/es/dazn-f1-es.png" tvg-id="795891",PT: DAZN F1 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795891&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sport-tv-mais-pt.png" tvg-id="795890",PT: SPORT TV+ FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795890&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sport-tv-mais-pt.png" tvg-id="795889",PT: SPORT TV+ HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795889&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sport-tv-1-pt.png" tvg-id="795888",PT: SPORT TV 1 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795888&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sport-tv-1-pt.png" tvg-id="795887",PT: SPORT TV 1 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795887&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sport-tv-2-pt.png" tvg-id="795886",PT: SPORT TV 2 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795886&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sport-tv-2-pt.png" tvg-id="795885",PT: SPORT TV 2 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795885&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sport-tv-3-pt.png" tvg-id="795884",PT: SPORT TV 3 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795884&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sport-tv-3-pt.png" tvg-id="795883",PT: SPORT TV 3 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795883&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sport-tv-4-pt.png" tvg-id="795882",PT: SPORT TV 4 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795882&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sport-tv-4-pt.png" tvg-id="795881",PT: SPORT TV 4 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795881&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sport-tv-5-pt.png" tvg-id="795880",PT: SPORT TV 5 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795880&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sport-tv-5-pt.png" tvg-id="795879",PT: SPORT TV 5 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795879&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sport-tv-6-pt.png" tvg-id="795878",PT: SPORT TV 6 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795878&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sport-tv-6-pt.png" tvg-id="795877",PT: SPORT TV 6 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795877&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sporting-tv-pt.png" tvg-id="795876",PT: SPORTING TV FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795876&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/sporting-tv-pt.png" tvg-id="795875",PT: SPORTING TV HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795875&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/eleven-sports-pt.png" tvg-id="795874",PT: ELEVEN SPORTS 4K
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795874&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/eleven-sports-1-pt.png" tvg-id="795873",PT: ELEVEN SPORTS 1 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795873&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/eleven-sports-2-pt.png" tvg-id="795872",PT: ELEVEN SPORTS 1 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795872&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/eleven-sports-2-pt.png" tvg-id="795871",PT: ELEVEN SPORTS 2 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795871&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/eleven-sports-2-pt.png" tvg-id="795870",PT: ELEVEN SPORTS 2 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795870&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/eleven-sports-3-pt.png" tvg-id="795869",PT: ELEVEN SPORTS 3 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795869&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/eleven-sports-3-pt.png" tvg-id="795868",PT: ELEVEN SPORTS 3 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795868&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/eleven-sports-4-pt.png" tvg-id="795867",PT: ELEVEN SPORTS 4 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795867&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/eleven-sports-4-pt.png" tvg-id="795866",PT: ELEVEN SPORTS 4 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795866&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/eleven-sports-5-pt.png" tvg-id="795865",PT: ELEVEN SPORTS 5 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795865&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/eleven-sports-5-pt.png" tvg-id="795864",PT: ELEVEN SPORTS 5 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795864&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/eleven-sports-6-pt.png" tvg-id="795863",PT: ELEVEN SPORTS 6 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795863&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/eleven-sports-6-pt.png" tvg-id="795862",PT: ELEVEN SPORTS 6 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795862&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/nba-tv-pt.png" tvg-id="795861",PT: SPORT TV NBA FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795861&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/nba-tv-pt.png" tvg-id="795860",PT: SPORT TV NBA HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795860&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/canal11-pt.png" tvg-id="795859",PT: CANAL 11 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795859&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/canal11-pt.png" tvg-id="795858",PT: CANAL 11 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795858&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/germany/eurosport/eurosport1.png" tvg-id="795857",PT: EUROSPORT 1 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795857&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/germany/eurosport/eurosport1.png" tvg-id="795856",PT: EUROSPORT 1 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795856&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/germany/eurosport/eurosport2.png" tvg-id="795855",PT: EUROSPORT 2 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795855&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/germany/eurosport/eurosport2.png" tvg-id="795854",PT: EUROSPORT 2 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795854&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/btv-hd-pt.png" tvg-id="795853",PT: BTV FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795853&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/btv-pt.png" tvg-id="795852",PT: BTV HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795852&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://excpicon.cfd/parsx/pt/wwe.png" tvg-id="795851",PT: WWE HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795851&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://excpicon.cfd/parsx/pt/fight-network-pt.png" tvg-id="795850",PT: FIGHT NETWORK
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795850&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/germany/nflnetwork.png" tvg-id="795849",PT: NFL NETWORK HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795849&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/btv-pt.png" tvg-id="795848",PT: BENFICA TV
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795848&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/pfc-pt.png" tvg-id="795847",PT: PFC INTERNACIONAL
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795847&extension=ts
-#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/portugal/toros-tv-pt.png" tvg-id="795846",PT: TOROS TV
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=795846&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571715",CAÇA E PESCA
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571715&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571714",CAÇAVISION
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571714&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571713",NATIONAL GEOGRAPHIC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571713&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571712",NAT GEO WILD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571712&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571711",MOTORVISION
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571711&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571710",FOOD NETWORK
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571710&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571709",ID INVESTIGATION DISCOVERY
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571709&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571708",DISCOVERY CHANNEL
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571708&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571707",CRIME + INVESTIGATION TV
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571707&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571706",HISTORIA
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571706&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571705",ODISSEIA
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571705&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571704",BLAZE
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571704&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571703",FUEL TV
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571703&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571702",TLC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571702&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571701",DOG TV HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571701&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571700",DISCOVERY CHANNEL HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571700&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571699",NATIONAL GEOGRAPHIC HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571699&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571698",ID INVESTIGATION DISCOVERY HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571698&extension=ts
-#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571697",FUEL TV HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571697&extension=ts
-#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571696",CANAL PANDA
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571696&extension=ts
-#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571695",BIGGS
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571695&extension=ts
-#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571694",NICKELODEON
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571694&extension=ts
-#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571693",NICK JR.
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571693&extension=ts
-#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571692",SIC K
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571692&extension=ts
-#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571691",BABY TV
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571691&extension=ts
-#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571690",CARTOON NETWORK
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571690&extension=ts
-#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571689",DISNEY CHANNEL
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571689&extension=ts
-#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571688",DISNEY JUNIOR
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571688&extension=ts
-#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571687",JIM JAM
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571687&extension=ts
-#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571686",LOLLY KIDS
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571686&extension=ts
-#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571685",LOLLY KIDS HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571685&extension=ts
-#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571684",SIC K HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571684&extension=ts
-#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571683",PANDA KIDS
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571683&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571682",TVCINE TOP
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571682&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571681",TVCINE TOP HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571681&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571680",TVCINE EDITION
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571680&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571679",TVCINE EMOTION
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571679&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571678",TVCINE ACTION
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571678&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571677",NOS STUDIO
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571677&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571676",AXN
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571676&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571675",AXN HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571675&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571674",AXN WHITE
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571674&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571673",AXN WHITE HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571673&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571672",AXN MOVIES
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571672&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571671",AMC
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571671&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571670",AMC HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571670&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571669",HOLLYWOOD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571669&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571668",SYFY
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571668&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571667",FOX
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571667&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571666",FOX COMEDY
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571666&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571665",FOX CRIME
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571665&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571664",FOX LIFE
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571664&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571663",FOX MOVIES
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571663&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571662",CINEMUNDO
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571662&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571661",KURIAKOS CINE
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571661&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571660",FOX LIFE HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571660&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571659",HOLLYWOOD HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571659&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571658",FOX CRIME HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571658&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571657",NOS STUDIOS HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571657&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571656",FOX HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571656&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571655",AXN MOVIES HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571655&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571654",TVCINE ACTION HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571654&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571653",TVCINE EMOTION HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571653&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571652",TVCINE EDITION HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571652&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571651",CINEMUNDO HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571651&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571650",SYFY HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571650&extension=ts
-#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571649",FOX MOVIES HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571649&extension=ts
-#EXTINF:-1 group-title="PT ✨ MUSIC" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571648",MCM POP
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571648&extension=ts
-#EXTINF:-1 group-title="PT ✨ MUSIC" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571647",MTV PORTUGAL
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571647&extension=ts
-#EXTINF:-1 group-title="PT ✨ MUSIC" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571646",MEZZO
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571646&extension=ts
-#EXTINF:-1 group-title="PT ✨ MUSIC" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571645",ICONCERTS HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571645&extension=ts
-#EXTINF:-1 group-title="PT ✨ MUSIC" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571644",TRACE URBAN
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571644&extension=ts
-#EXTINF:-1 group-title="PT ✨ MUSIC" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571643",AFRO MUSIC CHANNEL
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571643&extension=ts
-#EXTINF:-1 group-title="PT ✨ MUSIC" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571642",TV5 MONDE
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571642&extension=ts
-#EXTINF:-1 group-title="PT ✨ MUSIC" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571641",MCM TOP
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571641&extension=ts
-#EXTINF:-1 group-title="PT ✨ MUSIC" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571640",MTV 00S
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571640&extension=ts
-#EXTINF:-1 group-title="PT ✨ MUSIC" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571639",TRACE LATINA
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571639&extension=ts
-#EXTINF:-1 group-title="PT ✨ MUSIC" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571638",TRACE TOCA
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571638&extension=ts
-#EXTINF:-1 group-title="PT ✨ MUSIC" tvg-logo="https://www.tvlogolar.xyz/logo/live-logo.png" tvg-id="571637",TRACE NAIJA
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=571637&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/rtp1hd.png" tvg-id="930175",RTP 1 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930175&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/rtp1hd.png" tvg-id="930174",RTP 1 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930174&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/rtp2hd.png" tvg-id="930173",RTP 2 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930173&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/rtp2hd.png" tvg-id="930172",RTP 2 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930172&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/rtp3hd.png" tvg-id="930171",RTP 3 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930171&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/rtp3hd.png" tvg-id="930170",RTP 3 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930170&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/rtpafrica.png" tvg-id="930169",RTP AFRICA FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930169&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/rtpafrica.png" tvg-id="930168",RTP AFRICA HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930168&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/rtpacores.png" tvg-id="930167",RTP ACORES
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930167&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/rtpmadeira.png" tvg-id="930166",RTP MADEIRA
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930166&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/rtpmemoria.png" tvg-id="930165",RTP MEMORIA
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930165&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tvihd.png" tvg-id="930164",TVI FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930164&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tvihd.png" tvg-id="930163",TVI HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930163&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tvihd.png" tvg-id="930162",TVI 24 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930162&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tvihd.png" tvg-id="930161",TVI 24 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930161&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tvihd.png" tvg-id="930160",TVI FICCAO FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930160&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tvihd.png" tvg-id="930159",TVI FICCAO HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930159&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tvi-reality.png" tvg-id="930158",TVI REALITY
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930158&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tvi-reality.png" tvg-id="930157",TVI REALITY MOSAICO
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930157&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sichd.png" tvg-id="930156",SIC FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930156&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sichd.png" tvg-id="930155",SIC HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930155&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sic-noticias.png" tvg-id="930154",SIC NOTICIAS FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930154&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sic-noticias.png" tvg-id="930153",SIC NOTICIAS HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930153&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sic-radical.png" tvg-id="930152",SIC RADICAL FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930152&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sic-radical.png" tvg-id="930151",SIC RADICAL HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930151&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sic-caras.png" tvg-id="930150",SIC CARAS FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930150&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sic-caras.png" tvg-id="930149",SIC CARAS HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930149&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sic-mulher.png" tvg-id="930148",SIC MULHER FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930148&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sic-mulher.png" tvg-id="930147",SIC MULHER HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930147&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/cmtv.png" tvg-id="930146",CMTV FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930146&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/cmtv.png" tvg-id="930145",CMTV HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930145&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/portocanal.png" tvg-id="930144",PORTO CANAL FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930144&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/portocanal.png" tvg-id="930143",PORTO CANAL HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930143&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/record.png" tvg-id="930142",TV RECORD FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930142&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/globo.png" tvg-id="930141",TV RECORD HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930141&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/recordnews.png" tvg-id="930140",RECORD NEWS
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930140&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/globo.png" tvg-id="930139",TV GLOBO FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930139&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/globo.png" tvg-id="930138",TV GLOBO HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930138&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/globo.png" tvg-id="930137",TV GLOBO NOW FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930137&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/globo.png" tvg-id="930136",TV GLOBO NOW HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930136&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tpa.png" tvg-id="930135",CANÇAO NOVA
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930135&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/24kitchen.png" tvg-id="930134",24 KITCHEN FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930134&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/24kitchen.png" tvg-id="930133",24 KITCHEN HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930133&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/canal-q.png" tvg-id="930132",CANAL Q
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930132&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/casa-cozinha.png" tvg-id="930131",CASA E COZINHA
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930131&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/casa-cozinha.png" tvg-id="930130",CASA E COZINHA HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930130&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/cbs-reality.png" tvg-id="930129",CBS REALITY
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930129&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/England/e-entertainment-uk.png" tvg-id="930128",E! ENTERTAINMENT
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930128&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/ftv.png" tvg-id="930127",FASHION TV
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930127&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/England/fox-uk.png" tvg-id="930126",FOX NEWS
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930126&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bloomberght.png" tvg-id="930125",BLOOMBERG
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930125&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tvegalicia.png" tvg-id="930124",TVE 24H
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930124&extension=ts
+#EXTINF:-1 group-title="PT ✨ PORTUGAL" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tpa.png" tvg-id="930123",TPA
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930123&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/rtp1hd.png" tvg-id="930122",RTP 1 HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930122&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/rtp2hd.png" tvg-id="930121",RTP 2 HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930121&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/England/fox-uk.png" tvg-id="930120",FOX HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930120&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/England/fox-uk.png" tvg-id="930119",FOX MOVIES HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930119&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sichd.png" tvg-id="930118",SIC HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930118&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sic-mulher.png" tvg-id="930117",SIC MULHER HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930117&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sic-noticias.png" tvg-id="930116",SIC NOTICIAS HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930116&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/canal11.png" tvg-id="930115",CANAL 11 HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930115&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/globo.png" tvg-id="930114",GLOBO HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930114&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/hollywood.png" tvg-id="930113",HOLLYWOOD HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930113&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/bola-tv.png" tvg-id="930112",A BOLA TV HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930112&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tvi-reality.png" tvg-id="930111",TVI FICÇÃO HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930111&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/nos-studios.png" tvg-id="930110",NOS STUDIOS HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930110&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/axn-white.png" tvg-id="930109",AXN WHITE HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930109&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/cmtv.png" tvg-id="930108",CMTV HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930108&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/cnn.png" tvg-id="930107",CNN PORTUGAL HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930107&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sichd.png" tvg-id="930106",SIC NOVELAS HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930106&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tvcine-top.png" tvg-id="930105",TVCINE TOP HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930105&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/ftv.png" tvg-id="930104",E! ENTERTAINMENT HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930104&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/discovery.png" tvg-id="930103",DISCOVERY CHANNEL HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930103&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/natgeo.png" tvg-id="930102",NAT GEO WILD HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930102&extension=ts
+#EXTINF:-1 group-title="PT ✨ HEVC" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/bola-tv.png" tvg-id="930101",A BOLA TV HEVC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930101&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/dazn1.png" tvg-id="930047",DAZN 1 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930047&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/dazn1.png" tvg-id="930046",DAZN 1 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930046&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/dazn2.png" tvg-id="930045",DAZN 2 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930045&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/dazn2.png" tvg-id="930044",DAZN 2 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930044&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/dazn3.png" tvg-id="930043",DAZN 3 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930043&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/dazn3.png" tvg-id="930042",DAZN 3 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930042&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/dazn4.png" tvg-id="930041",DAZN 4 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930041&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/dazn4.png" tvg-id="930040",DAZN 4 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930040&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/dazn5.png" tvg-id="930039",DAZN 5 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930039&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/dazn5.png" tvg-id="930038",DAZN 5 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930038&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sportv7.png" tvg-id="930037",SPORT TV+ FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930037&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sportv7.png" tvg-id="930036",SPORT TV+ HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930036&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sportv1.png" tvg-id="930035",SPORT TV 1 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930035&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sportv1.png" tvg-id="930034",SPORT TV 1 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930034&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sportv2.png" tvg-id="930033",SPORT TV 2 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930033&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sportv2.png" tvg-id="930032",SPORT TV 2 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930032&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sportv3.png" tvg-id="930031",SPORT TV 3 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930031&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sportv3.png" tvg-id="930030",SPORT TV 3 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930030&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sportv4.png" tvg-id="930029",SPORT TV 4 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930029&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sportv4.png" tvg-id="930028",SPORT TV 4 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930028&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sportv5.png" tvg-id="930027",SPORT TV 5 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930027&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sportv5.png" tvg-id="930026",SPORT TV 5 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930026&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sportv6.png" tvg-id="930025",SPORT TV 6 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930025&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sportv6.png" tvg-id="930024",SPORT TV 6 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930024&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sporting-tv.png" tvg-id="930023",SPORTING TV FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930023&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sporting-tv.png" tvg-id="930022",SPORTING TV HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930022&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/eleven1.png" tvg-id="930021",ELEVEN SPORTS 1 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930021&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/eleven1.png" tvg-id="930020",ELEVEN SPORTS 1 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930020&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/eleven2.png" tvg-id="930019",ELEVEN SPORTS 2 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930019&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/eleven2.png" tvg-id="930018",ELEVEN SPORTS 2 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930018&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/eleven3.png" tvg-id="930017",ELEVEN SPORTS 3 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930017&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/eleven3.png" tvg-id="930016",ELEVEN SPORTS 3 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930016&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/eleven4.png" tvg-id="930015",ELEVEN SPORTS 4 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930015&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/eleven4.png" tvg-id="930014",ELEVEN SPORTS 4 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930014&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/eleven5.png" tvg-id="930013",ELEVEN SPORTS 5 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930013&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/eleven5.png" tvg-id="930012",ELEVEN SPORTS 5 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930012&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/eleven6.png" tvg-id="930011",ELEVEN SPORTS 6 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930011&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/eleven6.png" tvg-id="930010",ELEVEN SPORTS 6 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930010&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sportv-nba.png" tvg-id="930009",SPORT TV NBA FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930009&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sportv-nba.png" tvg-id="930008",SPORT TV NBA HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930008&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/canal11.png" tvg-id="930007",CANAL 11 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930007&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/canal11.png" tvg-id="930006",CANAL 11
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930006&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/England/eurosport-1-uk.png" tvg-id="930005",EUROSPORT 1 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930005&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/England/eurosport-1-uk.png" tvg-id="930004",EUROSPORT 1 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930004&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/btv.png" tvg-id="930003",BTV FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930003&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/btv.png" tvg-id="930002",BTV HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930002&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/England/eurosport-2-uk.png" tvg-id="930001",EUROSPORT 2 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930001&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/England/eurosport-2-uk.png" tvg-id="930000",EUROSPORT 2 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=930000&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/FIGHT_NETWORK.png" tvg-id="929999",FIGHT NETWORK
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929999&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/europa/germany/nflnetwork.png" tvg-id="929998",NFL NETWORK
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929998&extension=ts
+#EXTINF:-1 group-title="PT ✨ DESPORTO" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/pfc.png" tvg-id="929997",PFC INTERNACIONAL
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929997&extension=ts
+#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/caca-pesca.png" tvg-id="929996",CAÇA E PESCA
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929996&extension=ts
+#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/cacavision.png" tvg-id="929995",CACAVISION
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929995&extension=ts
+#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/Toplu/England/national-geographic-uk.png" tvg-id="929994",NATIONAL GEOGRAPHIC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929994&extension=ts
+#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/Toplu/England/national-geographic-wild-uk.png" tvg-id="929993",NAT GEO WILD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929993&extension=ts
+#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/motorvision.png" tvg-id="929992",MOTORVISION
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929992&extension=ts
+#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/id-discovery.png" tvg-id="929991",ID INVESTIGATION DISCOVERY
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929991&extension=ts
+#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/discovery.png" tvg-id="929990",DISCOVERY CHANNEL
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929990&extension=ts
+#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/historia.png" tvg-id="929989",HISTORIA
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929989&extension=ts
+#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/odisseia.png" tvg-id="929988",ODISSEIA
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929988&extension=ts
+#EXTINF:-1 group-title="PT ✨ DOCUMENTARIOS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/fueltv.png" tvg-id="929987",FUEL TV
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929987&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Czech/axn.png" tvg-id="929986",AXN HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929986&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/axn-white.png" tvg-id="929985",AXN WHITE
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929985&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/logo/%c4%b0spanya/AXN.MOVIES.png" tvg-id="929984",AXN MOVIES
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929984&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tvcine-action.png" tvg-id="929983",TVCINE ACTION
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929983&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tvcine-emotion.png" tvg-id="929982",TVCINE EMOTION
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929982&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tvcine-edition.png" tvg-id="929981",TVCINE EDITION
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929981&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/tvcine-top.png" tvg-id="929980",TVCINE TOP
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929980&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Slovenia/fox.png" tvg-id="929979",FOX
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929979&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Slovenia/fox-movies.png" tvg-id="929978",FOX MOVIES
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929978&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Slovenia/fox.png" tvg-id="929977",FOX COMEDY
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929977&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Slovenia/fox-crime.png" tvg-id="929976",FOX CRIME
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929976&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Slovenia/fox-life.png" tvg-id="929975",FOX LIFE
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929975&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/canal11.png" tvg-id="929974",CANAL 11
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929974&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/nos-studios.png" tvg-id="929973",NOS STUDIOS
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929973&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Czech/amc.png" tvg-id="929972",AMC
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929972&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/hollywood.png" tvg-id="929971",HOLLYWOOD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929971&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/syfy.png" tvg-id="929970",SYFY
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929970&extension=ts
+#EXTINF:-1 group-title="PT ✨ CINEMA" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/cinemundooo.png" tvg-id="929969",CINEMUNDO
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929969&extension=ts
+#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/sic-k.png" tvg-id="929968",SIC K
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929968&extension=ts
+#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/Toplu/England/cartoon-network-uk.png" tvg-id="929967",CARTOON NETWORK
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929967&extension=ts
+#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/Toplu/England/disney-channel-uk.png" tvg-id="929966",DISNEY CHANNEL
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929966&extension=ts
+#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/Toplu/England/disney-junior-uk.png" tvg-id="929965",DISNEY JUNIOR
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929965&extension=ts
+#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Czech/nickelodeon.png" tvg-id="929964",NICKELODEON
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929964&extension=ts
+#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/canal-q.png" tvg-id="929963",CANAL Q
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929963&extension=ts
+#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/canal-panda.png" tvg-id="929962",CANAL PANDA
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929962&extension=ts
+#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Czech/nick-jr.png" tvg-id="929961",NICK JR
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929961&extension=ts
+#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Czech/jimjam.png" tvg-id="929960",JIM JAM
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929960&extension=ts
+#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/biggs.png" tvg-id="929959",BIGGS
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929959&extension=ts
+#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/Toplu/England/baby-tv-uk.png" tvg-id="929958",BABY TV
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929958&extension=ts
+#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/lolykids.png" tvg-id="929957",LOLLY KIDS
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929957&extension=ts
+#EXTINF:-1 group-title="PT ✨ CRIANCAS" tvg-logo="https://www.tvlogolar.xyz/Toplu/Portekiz/panda-kids.png" tvg-id="929956",PANDA KIDS
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=929956&extension=ts
 #EXTINF:-1 group-title="UK ✨ ENGLAND" tvg-logo="https://www.tvlogolar.xyz/Toplu/England/bbc-one-hd-uk.png" tvg-id="928968",BBC ONE FHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:5B&stream=928968&extension=ts
 #EXTINF:-1 group-title="UK ✨ ENGLAND" tvg-logo="https://www.tvlogolar.xyz/Toplu/England/bbc-one-hd-uk.png" tvg-id="928967",BBC ONE HD
