@@ -1929,12 +1929,6 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=684453&ex
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=684452&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports.png" tvg-id="929577",BEIN SPORT 4K
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=929577&extension=ts
-#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports.png" tvg-id="929027",BEIN FEED RAW
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=929027&extension=ts
-#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports.png" tvg-id="929026",BEIN FEED FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=929026&extension=ts
-#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports.png" tvg-id="929025",BEIN FEED HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=929025&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" tvg-id="929024",BEIN SPORT 1 RAW
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=929024&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinsports1.png" tvg-id="929023",BEIN SPORT 1 FHD
@@ -4933,13 +4927,13 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=927595&ex
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=927594&extension=ts
 #EXTINF:-1 group-title="DE ✨ LEAGUES" tvg-logo="https://www.tvlogolar.xyz/logo/germany/2frauenbundesliga.png" tvg-id="927593",FRAUEN: VFL BOCHUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=927593&extension=ts
-#EXTINF:-1 group-title="DE ✨ SKY BUNDESLIGA" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznbundesliga.png" tvg-id="867961",DAZN BUNDESLIGA  KONFERENZ FHD
+#EXTINF:-1 group-title="DE ✨ SKY BUNDESLIGA" tvg-logo="https://i.ibb.co/9MqHGv6/dazbundesligakonferanz-1.png" tvg-id="867961",DAZN KONFERENZ FHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=867961&extension=ts
-#EXTINF:-1 group-title="DE ✨ SKY BUNDESLIGA" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznbundesliga.png" tvg-id="911030",DAZN BUNDESLIGA KONFERENZ HD
+#EXTINF:-1 group-title="DE ✨ SKY BUNDESLIGA" tvg-logo="https://i.ibb.co/9MqHGv6/dazbundesligakonferanz-1.png" tvg-id="911030",DAZN KONFERENZ HD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=911030&extension=ts
-#EXTINF:-1 group-title="DE ✨ SKY BUNDESLIGA" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesliga.png" tvg-id="852748",SKY BUNDESLIGA KONFERENZ FHD
+#EXTINF:-1 group-title="DE ✨ SKY BUNDESLIGA" tvg-logo="https://i.ibb.co/Q7x7MrTC/skybundesliga.jpg" tvg-id="852748",SKY KONFERENZ FHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=852748&extension=ts
-#EXTINF:-1 group-title="DE ✨ SKY BUNDESLIGA" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesliga.png" tvg-id="911029",SKY BUNDESLIGA KONFERENZ HD
+#EXTINF:-1 group-title="DE ✨ SKY BUNDESLIGA" tvg-logo="https://i.ibb.co/Q7x7MrTC/skybundesliga.jpg" tvg-id="911029",SKY KONFERENZ HD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=911029&extension=ts
 #EXTINF:-1 group-title="DE ✨ SKY BUNDESLIGA" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesligauhd.png" tvg-id="1097",SKY BUNDESLIGA UHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=1097&extension=ts
@@ -5009,22 +5003,22 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=1118&exte
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=444858&extension=ts
 #EXTINF:-1 group-title="DE ✨ SKY BUNDESLIGA" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesliga10.png" tvg-id="444857",SKY BUNDESLIGA 10 HD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=444857&extension=ts
+#EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png" tvg-id="987",DAZN 1 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=987&extension=ts
+#EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png" tvg-id="986",DAZN 1 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=986&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png" tvg-id="597440",DAZN 1 UHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=597440&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png" tvg-id="851939",DAZN 1 RAW
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=851939&extension=ts
-#EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png" tvg-id="986",DAZN 1 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=986&extension=ts
-#EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png" tvg-id="987",DAZN 1 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=987&extension=ts
+#EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png" tvg-id="993",DAZN 2 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=993&extension=ts
+#EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png" tvg-id="992",DAZN 2 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=992&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png" tvg-id="783074",DAZN 2 UHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=783074&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png" tvg-id="851938",DAZN 2 RAW
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=851938&extension=ts
-#EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png" tvg-id="992",DAZN 2 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=992&extension=ts
-#EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png" tvg-id="993",DAZN 2 HD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=993&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN FUSSBALL LIGA" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" tvg-id="905929",DAZN BUNDESLIGA 1
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=905929&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN FUSSBALL LIGA" tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" tvg-id="905928",DAZN BUNDESLIGA 2
