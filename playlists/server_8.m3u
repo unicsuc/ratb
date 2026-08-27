@@ -1927,25 +1927,37 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=684454&ex
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=684453&extension=ts
 #EXTINF:-1 group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR" tvg-logo="https://www.logolarimiz.com/europa/turkey/tivibuspor4.png" tvg-id="684452",TIVIBU SPOR 4
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=684452&extension=ts
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsportshaber.png" tvg-id="930644",BEIN SPORT HABER
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=930644&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports.png" tvg-id="929577",BEIN SPORT 4K
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=929577&extension=ts
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports.png" tvg-id="930639",BEIN SPORT FEED
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=930639&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports1.png" tvg-id="929024",BEIN SPORT 1 RAW
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=929024&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports1.png" tvg-id="929023",BEIN SPORT 1 FHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=929023&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports1.png" tvg-id="929022",BEIN SPORT 1 HD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=929022&extension=ts
-#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports2.png" tvg-id="929021",BEIN SPORT 2 RAW
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports2.png" tvg-id="929021",BEIN SPORT 2 FHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=929021&extension=ts
-#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports3.png" tvg-id="929020",BEIN SPORT 3 RAW
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports2.png" tvg-id="930640",BEIN SPORT 2 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=930640&extension=ts
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports3.png" tvg-id="929020",BEIN SPORT 3 FHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=929020&extension=ts
-#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports4.png" tvg-id="929030",BEIN SPORT 4 RAW
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports3.png" tvg-id="930641",BEIN SPORT 3 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=930641&extension=ts
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports4.png" tvg-id="929030",BEIN SPORT 4 FHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=929030&extension=ts
-#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports5.png" tvg-id="929029",BEIN SPORT 5 RAW
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports5.png" tvg-id="929029",BEIN SPORT 5 FHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=929029&extension=ts
-#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsportsmax1.png" tvg-id="929028",BEIN SPORT MAX 1 RAW
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports4.png" tvg-id="930642",BEIN SPORT 4 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=930642&extension=ts
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports5.png" tvg-id="930643",BEIN SPORT 5 HD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=930643&extension=ts
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsportsmax1.png" tvg-id="929028",BEIN SPORT MAX 1
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=929028&extension=ts
-#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsportsmax2.png" tvg-id="929019",BEIN SPORT MAX 2 RAW
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsportsmax2.png" tvg-id="929019",BEIN SPORT MAX 2
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=929019&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT" tvg-logo="https://i.imgur.com/UGbdQLv.png" tvg-id="552146",b**N SPORTS HABER FHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:08:4A:E6&stream=552146&extension=ts
