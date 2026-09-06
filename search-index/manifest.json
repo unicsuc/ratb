@@ -1,13 +1,13 @@
 {
   "schema_version": "3-catalog-sqlite",
-  "repo_commit": "f7b6d70c831292865bad5713f78791fe6ef79465",
-  "generated_at": "2026-09-06T04:26:22.887092+00:00",
-  "playlist_count": 57,
-  "channel_count": 1223237,
-  "category_count": 20613,
-  "skipped_without_stream_id": 463,
+  "repo_commit": "205750593df2f4667dc53f2caa684a996d99a2dc",
+  "generated_at": "2026-09-06T11:19:29.790899+00:00",
+  "playlist_count": 80,
+  "channel_count": 1780653,
+  "category_count": 29798,
+  "skipped_without_stream_id": 540,
   "archive": "playlist_search.db.zip",
   "archive_url": "https://raw.githubusercontent.com/unicsuc/ratb/main/search-index/playlist_search.db.zip",
-  "archive_size": 58949469,
-  "archive_sha256": "0ee0a488556acccf551aa1e9abe731c048b2eeb278d4d88c927157260a8892ac"
+  "archive_size": 83836074,
+  "archive_sha256": "f436983c490a733f22d7f8c813e1be210afa2822d751b9984bb82d9127651809"
 }
