@@ -1365,6 +1365,10 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C3:57&stream=530&exten
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C3:57&stream=531&extension=ts
 #EXTINF:-1 group-title="TR ✨ YEREL" tvg-logo="https://r.resimlink.com/2B4Vb.png" tvg-id="532",ZONGULDAK KANAL Z
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C3:57&stream=532&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMEUr1CH5fGmeae3rVP4xDfD9t3.jpg" tvg-id="932065",Evlilik Güzeldir  ⚜️ SON BOLUM
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C3:57&stream=932065&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnImGr6hA1GJb0IBxulxoOswF6D.jpg" tvg-id="932064",Altı Üstü İstanbul ⚜️ SON BOLUM
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C3:57&stream=932064&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erd75Gon5bXL38kngnH6DCrOUj2.jpg" tvg-id="932048",Daha 17 ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C3:57&stream=932048&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlrYhbKaN2QeETRpN6LavXIr9FE.jpg" tvg-id="932047",Mercan Köşk ⚜️ SON BOLUM
@@ -5197,12 +5201,18 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C3:57&stream=742686&ex
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C3:57&stream=742685&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN EVENT" tvg-logo="https://www.logolarimiz.com/logo/germany/daznevent.gif" tvg-id="742684",DAZN EVENT 20
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C3:57&stream=742684&extension=ts
-#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://i.ibb.co/Sw9YTdvw/i-1.png" tvg-id="865310",CHAMPIONS LEAGUE 1
+#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://i.ibb.co/Sw9YTdvw/i-1.png" tvg-id="865310",CL KONFERENZ 1
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C3:57&stream=865310&extension=ts
-#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://i.ibb.co/Sw9YTdvw/i-1.png" tvg-id="906165",CHAMPIONS LEAGUE 2
+#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://i.ibb.co/Sw9YTdvw/i-1.png" tvg-id="906165",CL KONFERENZ 2
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C3:57&stream=906165&extension=ts
-#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://i.ibb.co/Sw9YTdvw/i-1.png" tvg-id="906166",CHAMPIONS LEAGUE 3
+#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://i.ibb.co/Sw9YTdvw/i-1.png" tvg-id="906166",CL KONFERENZ 3
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C3:57&stream=906166&extension=ts
+#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://i.ibb.co/Sw9YTdvw/i-1.png" tvg-id="932078",CL UHD EVENT 1
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C3:57&stream=932078&extension=ts
+#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://i.ibb.co/Sw9YTdvw/i-1.png" tvg-id="932079",CL UHD EVENT 2
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C3:57&stream=932079&extension=ts
+#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://i.ibb.co/Sw9YTdvw/i-1.png" tvg-id="932080",CL UHD EVENT 3
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C3:57&stream=932080&extension=ts
 #EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/primevideo.png" tvg-id="622645",AMAZON PRIME SPORT FHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C3:57&stream=622645&extension=ts
 #EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/primevideo.png" tvg-id="622646",AMAZON PRIME SPORT HD

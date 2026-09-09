@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="[RO] Reality Series" tvg-id="320646",Insula NonStop
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:A3:57:6E&stream=320646&extension=ts
 #EXTINF:-1 group-title="[RO] Reality Series" tvg-logo="https://i.postimg.cc/rm2jsfxz/image.png" tvg-id="307563",Baieti De Oras
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:A3:57:6E&stream=307563&extension=ts
 #EXTINF:-1 group-title="[RO] Generale" tvg-logo="https://i.postimg.cc/W1zW9dt4/antena1.jpg" tvg-id="271905",Antena 1 4k
