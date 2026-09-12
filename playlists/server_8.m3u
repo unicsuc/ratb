@@ -1365,6 +1365,10 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=530&exten
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=531&extension=ts
 #EXTINF:-1 group-title="TR ✨ YEREL" tvg-logo="https://r.resimlink.com/2B4Vb.png" tvg-id="532",ZONGULDAK KANAL Z
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=532&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dWX56kVLJ47MG6axiTAFdf035k.jpg" tvg-id="931590",Muhtemel Aşk ⚜️ SON BOLUM
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=931590&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg" tvg-id="875813",Sevdiğim Sensin   ⚜️ SON BOLUM
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=875813&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmHRDFAZukHw089H58c6b6EUilQ.jpg" tvg-id="932308",Sevdan Bir Ateş (2026)  ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932308&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ffVYsJZKXTRE3CSdu53PnHOhat.jpg" tvg-id="932307",Aşk ve Taht (2026) ⚜️ SON BOLUM
@@ -1383,8 +1387,6 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932064&ex
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932048&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlrYhbKaN2QeETRpN6LavXIr9FE.jpg" tvg-id="932047",Mercan Köşk ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932047&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dWX56kVLJ47MG6axiTAFdf035k.jpg" tvg-id="931590",Muhtemel Aşk ⚜️ SON BOLUM
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=931590&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gDo5lVOzH9hkfpW7c29gHdIOHA.jpg" tvg-id="931589",Doğanın Kanunu ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=931589&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" tvg-id="858987",Güller ve Günahlar ⚜️ SON BOLUM
@@ -1405,8 +1407,6 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=858861&ex
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=597478&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" tvg-id="853620",Halef: Köklerin Çağrısı  ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=853620&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg" tvg-id="875813",Sevdiğim Sensin   ⚜️ SON BOLUM
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=875813&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" tvg-id="816337",ESREF RUYA ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=816337&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" tvg-id="861354",Kuruluş Orhan ⚜️ SON BOLUM
@@ -1949,11 +1949,11 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=684453&ex
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=684452&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsportshaber.png" tvg-id="930644",BEIN SPORT HABER
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=930644&extension=ts
-#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports.png" tvg-id="929577",BEIN SPORT 4K
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports.png" tvg-id="929577",BEIN 4K - Maç Vakti
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=929577&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports.png" tvg-id="930639",BEIN SPORT FEED
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=930639&extension=ts
-#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports1.png" tvg-id="929024",BEIN SPORT 1 RAW
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports1.png" tvg-id="929024",BEIN SPORT 1 RAW - Maç Vakti
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=929024&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports1.png" tvg-id="929023",BEIN SPORT 1 FHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=929023&extension=ts
