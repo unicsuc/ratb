@@ -3,6 +3,8 @@
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:10:A2:9E&stream=320646&extension=ts
 #EXTINF:-1 group-title="[RO] Reality Series" tvg-logo="https://i.postimg.cc/rm2jsfxz/image.png" tvg-id="307563",Baieti De Oras
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:10:A2:9E&stream=307563&extension=ts
+#EXTINF:-1 group-title="[RO] Generale" tvg-id="307672",Romania Vip Movies 4K
+http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:10:A2:9E&stream=307672&extension=ts
 #EXTINF:-1 group-title="[RO] Generale" tvg-logo="https://i.postimg.cc/W1zW9dt4/antena1.jpg" tvg-id="271905",Antena 1 4k
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:10:A2:9E&stream=271905&extension=ts
 #EXTINF:-1 group-title="[RO] Generale" tvg-logo="https://i.postimg.cc/W1zW9dt4/antena1.jpg" tvg-id="2",Antena 1ᶠᴴᴰ
@@ -605,8 +607,6 @@ http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:10:A2:9E&stream=273044&ex
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:10:A2:9E&stream=273043&extension=ts
 #EXTINF:-1 group-title="[RO] Filme HD 24/7" tvg-logo="http://5.189.181.7/extract/comedy.png" tvg-id="273042",Apple Comedy+ { HD }
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:10:A2:9E&stream=273042&extension=ts
-#EXTINF:-1 group-title="[RO] Full HD+SD" tvg-id="307672",Romania Vip Movies 4K
-http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:10:A2:9E&stream=307672&extension=ts
 #EXTINF:-1 group-title="[RO] Filme HD+SD" tvg-logo="http://5.189.181.7/extract/hbohd.png" tvg-id="20",HBO  { HD }
 http://csauc8.dynu.net:8080/play/live.php?mac=00:1A:79:10:A2:9E&stream=20&extension=ts
 #EXTINF:-1 group-title="[RO] Filme HD+SD" tvg-logo="http://5.189.181.7/extract/hbohd.png" tvg-id="1943",HBO { Fibra }
