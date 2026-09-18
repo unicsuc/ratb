@@ -1399,6 +1399,8 @@ http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=1118&extension=
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=444858&extension=ts
 #EXTINF:-1 group-title="DE ✨ SKY BUNDESLIGA" tvg-logo="https://www.logolarimiz.com/europa/germany/skysportbundesliga10.png" tvg-id="444857",SKY BUNDESLIGA 10 HD
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=444857&extension=ts
+#EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://logolarimiz.com/logo/Italy/dazn1.png" tvg-id="933097",DAZN 1 SD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=933097&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.logolarimiz.com/logo/Italy/dazn1.png" tvg-id="987",DAZN 1 HD
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=987&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.logolarimiz.com/logo/Italy/dazn1.png" tvg-id="986",DAZN 1 FHD
@@ -1407,6 +1409,8 @@ http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=986&extension=t
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=597440&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.logolarimiz.com/logo/Italy/dazn1.png" tvg-id="851939",DAZN 1 RAW
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=851939&extension=ts
+#EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://logolarimiz.com/logo/Italy/dazn2.png" tvg-id="933101",DAZN 2 SD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=933101&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.logolarimiz.com/logo/Italy/dazn2.png" tvg-id="993",DAZN 2 HD
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=993&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.logolarimiz.com/logo/Italy/dazn2.png" tvg-id="992",DAZN 2 FHD
@@ -1671,14 +1675,18 @@ http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=932080&extensio
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=622645&extension=ts
 #EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/primevideo.png" tvg-id="622646",AMAZON PRIME SPORT HD
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=622646&extension=ts
-#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/dazn1.png" tvg-id="622640",DAZN 1 FHD
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=622640&extension=ts
+#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://logolarimiz.com/logo/Italy/dazn1.png" tvg-id="933098",DAZN 1 SD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=933098&extension=ts
 #EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/dazn1.png" tvg-id="622641",DAZN 1 HD
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=622641&extension=ts
-#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/dazn2.png" tvg-id="622643",DAZN 2 FHD
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=622643&extension=ts
+#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/dazn1.png" tvg-id="622640",DAZN 1 FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=622640&extension=ts
+#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://logolarimiz.com/logo/Italy/dazn2.png" tvg-id="933102",DAZN 2 SD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=933102&extension=ts
 #EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/dazn2.png" tvg-id="622644",DAZN 2 HD
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=622644&extension=ts
+#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/dazn2.png" tvg-id="622643",DAZN 2 FHD
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=622643&extension=ts
 #EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/dazn/dazn.png" tvg-id="860043",DAZN CL EVENT 1
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:0C:A6:60&stream=860043&extension=ts
 #EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/dazn/dazn.png" tvg-id="860042",DAZN CL EVENT 2

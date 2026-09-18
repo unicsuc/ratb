@@ -1365,6 +1365,10 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=530&exten
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=531&extension=ts
 #EXTINF:-1 group-title="TR ✨ YEREL" tvg-logo="https://r.resimlink.com/2B4Vb.png" tvg-id="532",ZONGULDAK KANAL Z
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=532&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmHRDFAZukHw089H58c6b6EUilQ.jpg" tvg-id="932308",Sevdan Bir Ateş (2026)  ⚜️ SON BOLUM
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932308&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ffVYsJZKXTRE3CSdu53PnHOhat.jpg" tvg-id="932307",Aşk ve Taht (2026) ⚜️ SON BOLUM
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932307&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg" tvg-id="932281",Haysiyet (2026)  ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932281&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3.jpg" tvg-id="871177",A.B.I ⚜️ SON BOLUM
@@ -1391,10 +1395,6 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=597539&ex
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=931590&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg" tvg-id="875813",Sevdiğim Sensin   ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=875813&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmHRDFAZukHw089H58c6b6EUilQ.jpg" tvg-id="932308",Sevdan Bir Ateş (2026)  ⚜️ SON BOLUM
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932308&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ffVYsJZKXTRE3CSdu53PnHOhat.jpg" tvg-id="932307",Aşk ve Taht (2026) ⚜️ SON BOLUM
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932307&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gDo5lVOzH9hkfpW7c29gHdIOHA.jpg" tvg-id="931589",Doğanın Kanunu ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=931589&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" tvg-id="853202",Cennetin Çocukları ⚜️ SON BOLUM
@@ -1955,20 +1955,30 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=929577&ex
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=930639&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports1.png" tvg-id="929024",BEIN SPORT 1 RAW
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=929024&extension=ts
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports1.png" tvg-id="933103",BEIN SPORT 1 RAW+
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=933103&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports1.png" tvg-id="929023",BEIN SPORT 1 FHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=929023&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports1.png" tvg-id="929022",BEIN SPORT 1 HD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=929022&extension=ts
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports2.png" tvg-id="933104",BEIN SPORT 2 RAW
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=933104&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports2.png" tvg-id="929021",BEIN SPORT 2 FHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=929021&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports2.png" tvg-id="930640",BEIN SPORT 2 HD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=930640&extension=ts
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports3.png" tvg-id="933105",BEIN SPORT 3 RAW
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=933105&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports3.png" tvg-id="929020",BEIN SPORT 3 FHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=929020&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports3.png" tvg-id="930641",BEIN SPORT 3 HD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=930641&extension=ts
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports4.png" tvg-id="933106",BEIN SPORT 4 RAW
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=933106&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports4.png" tvg-id="929030",BEIN SPORT 4 FHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=929030&extension=ts
+#EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports5.png" tvg-id="933108",BEIN SPORT 5 RAW
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=933108&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports5.png" tvg-id="929029",BEIN SPORT 5 FHD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=929029&extension=ts
 #EXTINF:-1 group-title="TR ✨ b**N SPORT +" tvg-logo="https://www.logolarimiz.com/europa/turkey/beinsports4.png" tvg-id="930642",BEIN SPORT 4 HD
@@ -5043,6 +5053,8 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=1118&exte
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=444858&extension=ts
 #EXTINF:-1 group-title="DE ✨ SKY BUNDESLIGA" tvg-logo="https://www.logolarimiz.com/europa/germany/skysportbundesliga10.png" tvg-id="444857",SKY BUNDESLIGA 10 HD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=444857&extension=ts
+#EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://logolarimiz.com/logo/Italy/dazn1.png" tvg-id="933097",DAZN 1 SD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=933097&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.logolarimiz.com/logo/Italy/dazn1.png" tvg-id="987",DAZN 1 HD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=987&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.logolarimiz.com/logo/Italy/dazn1.png" tvg-id="986",DAZN 1 FHD
@@ -5051,6 +5063,8 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=986&exten
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=597440&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.logolarimiz.com/logo/Italy/dazn1.png" tvg-id="851939",DAZN 1 RAW
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=851939&extension=ts
+#EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://logolarimiz.com/logo/Italy/dazn2.png" tvg-id="933101",DAZN 2 SD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=933101&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.logolarimiz.com/logo/Italy/dazn2.png" tvg-id="993",DAZN 2 HD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=993&extension=ts
 #EXTINF:-1 group-title="DE ✨ DAZN SENDER" tvg-logo="https://www.logolarimiz.com/logo/Italy/dazn2.png" tvg-id="992",DAZN 2 FHD
@@ -5315,14 +5329,18 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932080&ex
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=622645&extension=ts
 #EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/primevideo.png" tvg-id="622646",AMAZON PRIME SPORT HD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=622646&extension=ts
-#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/dazn1.png" tvg-id="622640",DAZN 1 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=622640&extension=ts
+#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://logolarimiz.com/logo/Italy/dazn1.png" tvg-id="933098",DAZN 1 SD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=933098&extension=ts
 #EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/dazn1.png" tvg-id="622641",DAZN 1 HD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=622641&extension=ts
-#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/dazn2.png" tvg-id="622643",DAZN 2 FHD
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=622643&extension=ts
+#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/dazn1.png" tvg-id="622640",DAZN 1 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=622640&extension=ts
+#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://logolarimiz.com/logo/Italy/dazn2.png" tvg-id="933102",DAZN 2 SD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=933102&extension=ts
 #EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/dazn2.png" tvg-id="622644",DAZN 2 HD
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=622644&extension=ts
+#EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/dazn2.png" tvg-id="622643",DAZN 2 FHD
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=622643&extension=ts
 #EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/dazn/dazn.png" tvg-id="860043",DAZN CL EVENT 1
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=860043&extension=ts
 #EXTINF:-1 group-title="DE ✨ CHAMPIONS LEAGUE" tvg-logo="https://www.logolarimiz.com/europa/germany/dazn/dazn.png" tvg-id="860042",DAZN CL EVENT 2
