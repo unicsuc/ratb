@@ -1365,6 +1365,8 @@ http://zerotv.eu:8080/play/live.php?mac=00:1A:79:C0:1D:96&stream=530&extension=t
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:C0:1D:96&stream=531&extension=ts
 #EXTINF:-1 group-title="TR ✨ YEREL" tvg-logo="https://r.resimlink.com/2B4Vb.png" tvg-id="532",ZONGULDAK KANAL Z
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:C0:1D:96&stream=532&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjeB5dW5QKdBtlzS3FZrqqDHXNi.jpg" tvg-id="933671",Başkalarının Hayatı  (2026)  ⚜️ SON BOLUM
+http://zerotv.eu:8080/play/live.php?mac=00:1A:79:C0:1D:96&stream=933671&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" tvg-id="597481",KIZILCIK ŞERBETİ ⚜️ SON BOLUM
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:C0:1D:96&stream=597481&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" tvg-id="853620",Halef: Köklerin Çağrısı  ⚜️ SON BOLUM
