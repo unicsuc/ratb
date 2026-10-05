@@ -1365,6 +1365,16 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=530&exten
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=531&extension=ts
 #EXTINF:-1 group-title="TR ✨ YEREL" tvg-logo="https://r.resimlink.com/2B4Vb.png" tvg-id="532",ZONGULDAK KANAL Z
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=532&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjeB5dW5QKdBtlzS3FZrqqDHXNi.jpg" tvg-id="933671",Başkalarının Hayatı  (2026)  ⚜️ SON BOLUM
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=933671&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlrYhbKaN2QeETRpN6LavXIr9FE.jpg" tvg-id="932047",Mercan Köşk ⚜️ SON BOLUM
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932047&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" tvg-id="858987",Güller ve Günahlar ⚜️ SON BOLUM
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=858987&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" tvg-id="597539",GONUL DAGI ⚜️ SON BOLUM
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=597539&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osDIFW8dp2CwYnFKTzdKDm66Mr4.jpg" tvg-id="645431",KONUSANLAR ⚜️ SON BOLUM
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=645431&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" tvg-id="597481",KIZILCIK ŞERBETİ ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=597481&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" tvg-id="858861",Tasacak Bu Deniz ⚜️ SON BOLUM
@@ -1403,16 +1413,8 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=638071&ex
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=904736&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNU9FZWQ9vtobH6G4HS9USVGEP4.jpg" tvg-id="933726",Ömür Usta  (2026)  ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=933726&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjeB5dW5QKdBtlzS3FZrqqDHXNi.jpg" tvg-id="933671",Başkalarının Hayatı  (2026)  ⚜️ SON BOLUM
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=933671&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnImGr6hA1GJb0IBxulxoOswF6D.jpg" tvg-id="932064",Altı Üstü İstanbul ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932064&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlrYhbKaN2QeETRpN6LavXIr9FE.jpg" tvg-id="932047",Mercan Köşk ⚜️ SON BOLUM
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932047&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" tvg-id="858987",Güller ve Günahlar ⚜️ SON BOLUM
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=858987&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" tvg-id="597539",GONUL DAGI ⚜️ SON BOLUM
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=597539&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gDo5lVOzH9hkfpW7c29gHdIOHA.jpg" tvg-id="931589",Doğanın Kanunu ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=931589&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" tvg-id="853202",Cennetin Çocukları ⚜️ SON BOLUM
@@ -1433,8 +1435,6 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=873456&ex
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=853296&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0upbqBdvweAch5jW2dj6RVYu0s.jpg" tvg-id="904737",Doktor: Başka Hayatta  ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=904737&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osDIFW8dp2CwYnFKTzdKDm66Mr4.jpg" tvg-id="645431",KONUSANLAR ⚜️ SON BOLUM
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=645431&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" tvg-id="852477",Veliaht  ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=852477&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pym4NaXmFEaAfPa1ZQei6pAJGhS.jpg" tvg-id="875821",Aynı Yağmur Altında  ⚜️ SON BOLUM
