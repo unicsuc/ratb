@@ -1365,6 +1365,14 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=530&exten
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=531&extension=ts
 #EXTINF:-1 group-title="TR ✨ YEREL" tvg-logo="https://r.resimlink.com/2B4Vb.png" tvg-id="532",ZONGULDAK KANAL Z
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=532&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSTdVwURCDjqIQmYrVeTZIFXxzE.jpg" tvg-id="933435",Anne Yarısı (2026)  ⚜️ SON BOLUM
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=933435&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg" tvg-id="932281",Haysiyet (2026)  ⚜️ SON BOLUM
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932281&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXgalcTI4nBc4Dw0Ef4LevCz1Qp.jpg" tvg-id="931518",Tuzlu Kahve ⚜️ SON BOLUM
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=931518&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" tvg-id="643890",MEHMED FETIHLER SULTANI ⚜️ SON BOLUM
+http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=643890&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kMEUr1CH5fGmeae3rVP4xDfD9t3.jpg" tvg-id="932065",Evlilik Güzeldir  ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932065&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" tvg-id="786549",UZAK SEHIR ⚜️ SON BOLUM
@@ -1401,16 +1409,8 @@ http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932308&ex
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932307&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg" tvg-id="873456",YERALTI  ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=873456&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSTdVwURCDjqIQmYrVeTZIFXxzE.jpg" tvg-id="933435",Anne Yarısı (2026)  ⚜️ SON BOLUM
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=933435&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg" tvg-id="932281",Haysiyet (2026)  ⚜️ SON BOLUM
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=932281&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3.jpg" tvg-id="871177",A.B.I ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=871177&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXgalcTI4nBc4Dw0Ef4LevCz1Qp.jpg" tvg-id="931518",Tuzlu Kahve ⚜️ SON BOLUM
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=931518&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" tvg-id="643890",MEHMED FETIHLER SULTANI ⚜️ SON BOLUM
-http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=643890&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrBNLQUzs6KiqL6nTRfVTQdlVgP.jpg" tvg-id="904736",Çirkin  ⚜️ SON BOLUM
 http://zeroonemac1.xyz:8080/play/live.php?mac=00:1A:79:07:C7:A1&stream=904736&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osDIFW8dp2CwYnFKTzdKDm66Mr4.jpg" tvg-id="645431",KONUSANLAR ⚜️ SON BOLUM
