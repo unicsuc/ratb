@@ -1367,6 +1367,10 @@ http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:08:4D:7E&stream=531&extension=t
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:08:4D:7E&stream=532&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSTdVwURCDjqIQmYrVeTZIFXxzE.jpg" tvg-id="933435",Anne Yarısı (2026)  ⚜️ SON BOLUM
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:08:4D:7E&stream=933435&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmHRDFAZukHw089H58c6b6EUilQ.jpg" tvg-id="932308",Sevdan Bir Ateş (2026)  ⚜️ SON BOLUM
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:08:4D:7E&stream=932308&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg" tvg-id="873456",YERALTI  ⚜️ SON BOLUM
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:08:4D:7E&stream=873456&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg" tvg-id="932281",Haysiyet (2026)  ⚜️ SON BOLUM
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:08:4D:7E&stream=932281&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXgalcTI4nBc4Dw0Ef4LevCz1Qp.jpg" tvg-id="931518",Tuzlu Kahve ⚜️ SON BOLUM
@@ -1403,10 +1407,6 @@ http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:08:4D:7E&stream=931590&extensio
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:08:4D:7E&stream=853620&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg" tvg-id="875813",Sevdiğim Sensin   ⚜️ SON BOLUM
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:08:4D:7E&stream=875813&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmHRDFAZukHw089H58c6b6EUilQ.jpg" tvg-id="932308",Sevdan Bir Ateş (2026)  ⚜️ SON BOLUM
-http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:08:4D:7E&stream=932308&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg" tvg-id="873456",YERALTI  ⚜️ SON BOLUM
-http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:08:4D:7E&stream=873456&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ffVYsJZKXTRE3CSdu53PnHOhat.jpg" tvg-id="932307",Aşk ve Taht (2026) ⚜️ SON BOLUM
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:08:4D:7E&stream=932307&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3.jpg" tvg-id="871177",A.B.I ⚜️ SON BOLUM
