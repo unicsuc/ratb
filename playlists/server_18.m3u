@@ -1365,6 +1365,16 @@ http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=530&extension=t
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=531&extension=ts
 #EXTINF:-1 group-title="TR ✨ YEREL" tvg-logo="https://r.resimlink.com/2B4Vb.png" tvg-id="532",ZONGULDAK KANAL Z
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=532&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SBRjlJd6ntwY4fe0yVhLHzvztR.jpg" tvg-id="933177",Güneşin Doğduğu Yer (2026)   ⚜️ SON BOLUM
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=933177&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osDIFW8dp2CwYnFKTzdKDm66Mr4.jpg" tvg-id="645431",KONUSANLAR ⚜️ SON BOLUM
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=645431&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dWX56kVLJ47MG6axiTAFdf035k.jpg" tvg-id="931590",Muhtemel Aşk ⚜️ SON BOLUM
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=931590&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" tvg-id="853620",Halef: Köklerin Çağrısı  ⚜️ SON BOLUM
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=853620&extension=ts
+#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg" tvg-id="875813",Sevdiğim Sensin   ⚜️ SON BOLUM
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=875813&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmHRDFAZukHw089H58c6b6EUilQ.jpg" tvg-id="932308",Sevdan Bir Ateş (2026)  ⚜️ SON BOLUM
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=932308&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg" tvg-id="873456",YERALTI  ⚜️ SON BOLUM
@@ -1387,8 +1397,6 @@ http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=933726&extensio
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=597539&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" tvg-id="858861",Tasacak Bu Deniz ⚜️ SON BOLUM
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=858861&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SBRjlJd6ntwY4fe0yVhLHzvztR.jpg" tvg-id="933177",Güneşin Doğduğu Yer (2026)   ⚜️ SON BOLUM
-http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=933177&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSTdVwURCDjqIQmYrVeTZIFXxzE.jpg" tvg-id="933435",Anne Yarısı (2026)  ⚜️ SON BOLUM
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=933435&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg" tvg-id="932281",Haysiyet (2026)  ⚜️ SON BOLUM
@@ -1401,18 +1409,10 @@ http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=643890&extensio
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=933671&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" tvg-id="858987",Güller ve Günahlar ⚜️ SON BOLUM
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=858987&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osDIFW8dp2CwYnFKTzdKDm66Mr4.jpg" tvg-id="645431",KONUSANLAR ⚜️ SON BOLUM
-http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=645431&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" tvg-id="597481",KIZILCIK ŞERBETİ ⚜️ SON BOLUM
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=597481&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" tvg-id="746494",Güldür Güldür Show  ⚜️ SON BOLUM
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=746494&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dWX56kVLJ47MG6axiTAFdf035k.jpg" tvg-id="931590",Muhtemel Aşk ⚜️ SON BOLUM
-http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=931590&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" tvg-id="853620",Halef: Köklerin Çağrısı  ⚜️ SON BOLUM
-http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=853620&extension=ts
-#EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg" tvg-id="875813",Sevdiğim Sensin   ⚜️ SON BOLUM
-http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=875813&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlrYhbKaN2QeETRpN6LavXIr9FE.jpg" tvg-id="932047",Mercan Köşk ⚜️ SON BOLUM
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=932047&extension=ts
 #EXTINF:-1 group-title="TR  ✨ DIZI SON BÖLÜMLER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ffVYsJZKXTRE3CSdu53PnHOhat.jpg" tvg-id="932307",Aşk ve Taht (2026) ⚜️ SON BOLUM
@@ -6749,7 +6749,7 @@ http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823777&extensio
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823775&extension=ts
 #EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823774",LEONARDO DİCAPRİO
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823774&extension=ts
-#EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823773",   ARNOLD SCHWARZENEGGER
+#EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823773",ARNOLD SCHWARZENEGGER
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823773&extension=ts
 #EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823771",SYLVESTER STALLONE
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823771&extension=ts
@@ -6773,13 +6773,13 @@ http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823789&extensio
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823782&extension=ts
 #EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823785",   STEVEN SEAGAL
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823785&extension=ts
-#EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823768",   JACKIE CHAN
+#EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823768",JACKIE CHAN
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823768&extension=ts
 #EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823797",   JACKİE CHAN 2
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823797&extension=ts
 #EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823776",   BRUCE WILLIS
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823776&extension=ts
-#EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823772",   JET LEE
+#EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823772",JET LEE
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823772&extension=ts
 #EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823784",   DOLPH LUNDGREN
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823784&extension=ts
@@ -6793,11 +6793,11 @@ http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823780&extensio
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823779&extension=ts
 #EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823778",    DWAYNE JOHNSON
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823778&extension=ts
-#EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823769",   JİM CARREY
+#EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823769",JİM CARREY
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823769&extension=ts
-#EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823767",   VAN DAMME
+#EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823767",VAN DAMME
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823767&extension=ts
-#EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823766",   BRUCE LEE
+#EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823766",BRUCE LEE
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823766&extension=ts
 #EXTINF:-1 group-title="DE ✨ Z1 24/7 ACTOR" tvg-logo="https://www.logolarimiz.com/logo/zero1/7-24_movies.png" tvg-id="823841",   CREED
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:01:70:B5&stream=823841&extension=ts
