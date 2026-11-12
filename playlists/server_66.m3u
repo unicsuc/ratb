@@ -5919,8 +5919,6 @@ http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:59:AB&stream=439433&extensio
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:59:AB&stream=439432&extension=ts
 #EXTINF:-1 group-title="PL ✨ DLA DZIECI" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/4funkids.Playnow.png" tvg-id="439431",4FUN KIDS
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:59:AB&stream=439431&extension=ts
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvp3bialystok.Playnow.png" tvg-id="858745",TVP 3 BIALYSTOK HD
-http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:59:AB&stream=858745&extension=ts
 #EXTINF:-1 group-title="PL ✨ MUZYKA" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/mtv.Playnow.png" tvg-id="439409",MTV POLSKA
 http://zerotv.eu:8080/play/live.php?mac=00:1A:79:13:59:AB&stream=439409&extension=ts
 #EXTINF:-1 group-title="PL ✨ MUZYKA" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polotv.Playnow.png" tvg-id="439406",POLO TV
