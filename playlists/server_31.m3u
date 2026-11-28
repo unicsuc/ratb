@@ -189,225 +189,231 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=895003&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=895004&extension=ts
 #EXTINF:-1 group-title="UCL┃ CHAMPIONS LEAGUE" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3779358f1c32b856.png" tvg-id="895005",UCL┃ TABII SPOR 6 HD [TR]
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=895005&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_npo_050bf15fed20.png" tvg-id="1359",NL┃ NPO 1 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_npo_050bf15fed20.png" tvg-id="1359",NL┃ NPO 1 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1359&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_npo_c1fb02030843.png" tvg-id="1358",NL┃ NPO 2 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_npo_c1fb02030843.png" tvg-id="1358",NL┃ NPO 2 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1358&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_npo_9fff67b84f3e.png" tvg-id="1357",NL┃ NPO 3 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_npo_9fff67b84f3e.png" tvg-id="1357",NL┃ NPO 3 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1357&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_6f36abc042526f7d.png" tvg-id="1356",NL┃ RTL 4 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_6f36abc042526f7d.png" tvg-id="1356",NL┃ RTL 4 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1356&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_8aed2d54e8fb24dc.png" tvg-id="1355",NL┃ RTL 5 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_8aed2d54e8fb24dc.png" tvg-id="1355",NL┃ RTL 5 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1355&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_5211a26d199c2dfd.png" tvg-id="1354",NL┃ SBS 6 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_5211a26d199c2dfd.png" tvg-id="1354",NL┃ SBS 6 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1354&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_8a9cb6492ba0adf8.png" tvg-id="1353",NL┃ RTL 7 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_8a9cb6492ba0adf8.png" tvg-id="1353",NL┃ RTL 7 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1353&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_375d44562a396d4a.png" tvg-id="1352",NL┃ RTL 8 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_375d44562a396d4a.png" tvg-id="1352",NL┃ RTL 8 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1352&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_e8b784f6456cad0c.png" tvg-id="1351",NL┃ SBS 9 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_e8b784f6456cad0c.png" tvg-id="1351",NL┃ SBS 9 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1351&extension=ts
 #EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a01a879b6a268e65.png" tvg-id="1152824",NL┃ VIAPLAY TV HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1152824&extension=ts
 #EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a01a879b6a268e65.png" tvg-id="1157577",NL┃ VIAPLAY TV+ HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1157577&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_fa9ec8e5b314b09c.png" tvg-id="1350",NL┃ NET 5 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_fa9ec8e5b314b09c.png" tvg-id="1350",NL┃ NET 5 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1350&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_09c9c67f347e8fbe.png" tvg-id="1349",NL┃ RTL Z HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_09c9c67f347e8fbe.png" tvg-id="1349",NL┃ RTL Z HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1349&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_5e954cd9d3808ae4.png" tvg-id="1348",NL┃ VERONICA HD / DISNEYXD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_5e954cd9d3808ae4.png" tvg-id="1348",NL┃ VERONICA HD / DISNEYXD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1348&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_npo_b17e8cfc6493.png" tvg-id="1347",NL┃ NPO 1 EXTRA HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_npo_b17e8cfc6493.png" tvg-id="1347",NL┃ NPO 1 EXTRA HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1347&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_npo_682eb9c7f7bc.png" tvg-id="1346",NL┃ NPO 2 EXTRA HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_npo_682eb9c7f7bc.png" tvg-id="1346",NL┃ NPO 2 EXTRA HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1346&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_npo_761dcd544677.png" tvg-id="1344",NL┃ NPO POLITIEK EN NIEUWS HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_npo_761dcd544677.png" tvg-id="1344",NL┃ NPO POLITIEK EN NIEUWS HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1344&extension=ts
 #EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f363bd6f42078ff5.png" tvg-id="1343",☰☰☰☰ NL┃ JEUGD PAKKET HD ☰☰☰☰
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1343&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_eb0e0798d3986351.png" tvg-id="1342",NL┃ NICKELODEON HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_eb0e0798d3986351.png" tvg-id="1342",NL┃ NICKELODEON HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1342&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ea56ab948cc87216.png" tvg-id="1341",NL┃ NICK JUNIOR ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ea56ab948cc87216.png" tvg-id="1341",NL┃ NICK JUNIOR
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1341&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c7c1742e6c58be37.png" tvg-id="1340",NL┃ NICK TOONS ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c7c1742e6c58be37.png" tvg-id="1340",NL┃ NICK TOONS
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1340&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_593345d7458eaa4b.png" tvg-id="1339",NL┃ DISNEY CHANNEL HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_593345d7458eaa4b.png" tvg-id="1339",NL┃ DISNEY CHANNEL HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1339&extension=ts
 #EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_1ff861a4d7d17f59.png" tvg-id="668611",NL┃ DREAMWORKS HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=668611&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ed068cd9b6857231.png" tvg-id="1338",NL┃ BABY TV ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ed068cd9b6857231.png" tvg-id="1338",NL┃ BABY TV
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1338&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_9b3d2cee4ba0a0a2.png" tvg-id="1337",NL┃ DUCK TV ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_9b3d2cee4ba0a0a2.png" tvg-id="1337",NL┃ DUCK TV
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1337&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2128108b86e7aa1f.png" tvg-id="1336",NL┃ CARTOONITO HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2128108b86e7aa1f.png" tvg-id="1336",NL┃ CARTOONITO HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1336&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_fcd57ac774e00be9.png" tvg-id="1335",NL┃ CARTOON NETWORK HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_fcd57ac774e00be9.png" tvg-id="1335",NL┃ CARTOON NETWORK HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1335&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c3ef26b8c17b4cb7.png" tvg-id="1334",NL┃ RTL TELEKIDS HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c3ef26b8c17b4cb7.png" tvg-id="1334",NL┃ RTL TELEKIDS HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1334&extension=ts
 #EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_017166c5df5e2d46.png" tvg-id="1152808",NL┃ MOONBUG HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1152808&extension=ts
 #EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f363bd6f42078ff5.png" tvg-id="1332",☰☰☰☰ NL┃ FILM EN SERIE PAKKET HD ☰☰☰☰
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1332&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_265644421d352e34.png" tvg-id="1328",NL┃ FILM1 PREMIERE HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_265644421d352e34.png" tvg-id="1328",NL┃ FILM1 PREMIERE HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1328&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_df6bdd010375d5be.png" tvg-id="1327",NL┃ FILM1 ACTION HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_df6bdd010375d5be.png" tvg-id="1327",NL┃ FILM1 ACTION HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1327&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_aa8dddcdf9be1c45.png" tvg-id="1326",NL┃ FILM1 FAMILY HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_aa8dddcdf9be1c45.png" tvg-id="1326",NL┃ FILM1 FAMILY HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1326&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_aa4148a2d302a199.png" tvg-id="1325",NL┃ FILM1 DRAMA HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_aa4148a2d302a199.png" tvg-id="1325",NL┃ FILM1 DRAMA HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1325&extension=ts
 #EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_61b98ba18856f0fc.png" tvg-id="712858",NL┃ FILMBOX HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=712858&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_beb16ea1a52a5332.png" tvg-id="1317",NL┃ COMEDY CENTRAL HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_beb16ea1a52a5332.png" tvg-id="1317",NL┃ COMEDY CENTRAL HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1317&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_69dee06a92502c9d.png" tvg-id="1315",NL┃ STAR CHANNEL HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_69dee06a92502c9d.png" tvg-id="1315",NL┃ STAR CHANNEL HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1315&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_5f373272fa972e9a.png" tvg-id="1314",NL┃ E! ENTERTAINMENT HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_5f373272fa972e9a.png" tvg-id="1314",NL┃ E! ENTERTAINMENT HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1314&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2731e25c0ac1b42b.png" tvg-id="225517",NL┃ FASHION TV HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2731e25c0ac1b42b.png" tvg-id="225517",NL┃ FASHION TV HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=225517&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ab562b548db6f72f.png" tvg-id="1312",NL┃ BBC NL HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ab562b548db6f72f.png" tvg-id="1312",NL┃ BBC NL HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1312&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_88cc94fc4dda5a71.png" tvg-id="1311",NL┃ RTL CRIME HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_88cc94fc4dda5a71.png" tvg-id="1311",NL┃ RTL CRIME HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1311&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_d6241bd8c54e6f7d.png" tvg-id="1310",NL┃ RTL LOUNGE HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_d6241bd8c54e6f7d.png" tvg-id="1310",NL┃ RTL LOUNGE HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1310&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2ec1a2f47a66518d.png" tvg-id="1309",NL┃ PARAMOUNT NETWORK HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2ec1a2f47a66518d.png" tvg-id="1309",NL┃ PARAMOUNT NETWORK HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1309&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_abc9dbbfb28483ab.png" tvg-id="1307",NL┃ TLC HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_abc9dbbfb28483ab.png" tvg-id="1307",NL┃ TLC HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1307&extension=ts
 #EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f363bd6f42078ff5.png" tvg-id="1305",☰☰☰☰ NL┃ DOCUMENTAIRES PAKKET HD ☰☰☰☰
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1305&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_9a9f8bc2a5dc5054.png" tvg-id="1304",NL┃ NATIONAL GEOGRAPHIC HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_9a9f8bc2a5dc5054.png" tvg-id="1304",NL┃ NATIONAL GEOGRAPHIC HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1304&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_07321ec24bbc5213.png" tvg-id="1303",NL┃ NATIONAL GEOGRAPHIC WILD HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_07321ec24bbc5213.png" tvg-id="1303",NL┃ NATIONAL GEOGRAPHIC WILD HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1303&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f4a4e75ccf3e4561.png" tvg-id="1302",NL┃ DISCOVERY CHANNEL HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f4a4e75ccf3e4561.png" tvg-id="1302",NL┃ DISCOVERY CHANNEL HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1302&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c36aa894138c3d3e.png" tvg-id="1301",NL┃ DISCOVERY SCIENCE HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c36aa894138c3d3e.png" tvg-id="1301",NL┃ DISCOVERY SCIENCE HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1301&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_5f40b137af005f73.png" tvg-id="1300",NL┃ INVESTIGATION DISCOVERY HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_5f40b137af005f73.png" tvg-id="1300",NL┃ INVESTIGATION DISCOVERY HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1300&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_d8d559e231e8a604.png" tvg-id="1299",NL┃ CRIME+ INVESTIGATION HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_d8d559e231e8a604.png" tvg-id="1299",NL┃ CRIME+ INVESTIGATION HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1299&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_87c974680238d2b6.png" tvg-id="225530",NL┃ CURIOSITY CHANNEL HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_87c974680238d2b6.png" tvg-id="225530",NL┃ CURIOSITY CHANNEL HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=225530&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_40e76597901bc831.png" tvg-id="1298",NL┃ HISTORY HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_40e76597901bc831.png" tvg-id="1298",NL┃ HISTORY HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1298&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ce25f9b127196736.png" tvg-id="1297",NL┃ ANIMAL PLANET HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ce25f9b127196736.png" tvg-id="1297",NL┃ ANIMAL PLANET HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1297&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_dfeefb0a93a335d5.png" tvg-id="1295",NL┃ LOVE NATURE HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_dfeefb0a93a335d5.png" tvg-id="1295",NL┃ LOVE NATURE HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1295&extension=ts
 #EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c126f129c9ad56ed.png" tvg-id="724980",NL┃ HGTV HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=724980&extension=ts
 #EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f363bd6f42078ff5.png" tvg-id="1293",☰☰☰☰ NL┃ LIFESTYLE PAKKET HD ☰☰☰☰
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1293&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b58a26015612de65.png" tvg-id="1292",NL┃ 24KITCHEN HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b58a26015612de65.png" tvg-id="1292",NL┃ 24KITCHEN HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1292&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_be8edd60645db8a0.png" tvg-id="193151",NL┃ NJAM! HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_be8edd60645db8a0.png" tvg-id="193151",NL┃ NJAM! HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=193151&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b54c8e9e66c96234.png" tvg-id="1291",NL┃ FAMILY7 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b54c8e9e66c96234.png" tvg-id="1291",NL┃ FAMILY7 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1291&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_d2ce7b33b4fbe4c3.png" tvg-id="1290",NL┃ OUT TV HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_d2ce7b33b4fbe4c3.png" tvg-id="1290",NL┃ OUT TV HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1290&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_68c5167f15b52111.png" tvg-id="225529",NL┃ SHORTS TV HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_68c5167f15b52111.png" tvg-id="225529",NL┃ SHORTS TV HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=225529&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_eb8e6bd2f4c4e760.png" tvg-id="1287",NL┃ ESPN 1 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_eb8e6bd2f4c4e760.png" tvg-id="1287",NL┃ ESPN 1 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1287&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_eb8e6bd2f4c4e760.png" tvg-id="1286",NL┃ ESPN 2 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_eb8e6bd2f4c4e760.png" tvg-id="1286",NL┃ ESPN 2 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1286&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_eb8e6bd2f4c4e760.png" tvg-id="1285",NL┃ ESPN 3 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_eb8e6bd2f4c4e760.png" tvg-id="1285",NL┃ ESPN 3 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1285&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_eb8e6bd2f4c4e760.png" tvg-id="1284",NL┃ ESPN 4 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_eb8e6bd2f4c4e760.png" tvg-id="1284",NL┃ ESPN 4 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1284&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_605c22199decd76e.png" tvg-id="1281",NL┃ ZIGGO SPORT 1 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_605c22199decd76e.png" tvg-id="1281",NL┃ ZIGGO SPORT 1 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1281&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0f1666448b043291.png" tvg-id="1280",NL┃ ZIGGO SPORT 2 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_0f1666448b043291.png" tvg-id="1280",NL┃ ZIGGO SPORT 2 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1280&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4038ddffb7c9ae22.png" tvg-id="1278",NL┃ ZIGGO SPORT 3 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4038ddffb7c9ae22.png" tvg-id="1278",NL┃ ZIGGO SPORT 3 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1278&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_bce7064e7bf09bf5.png" tvg-id="1279",NL┃ ZIGGO SPORT 4 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_bce7064e7bf09bf5.png" tvg-id="1279",NL┃ ZIGGO SPORT 4 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1279&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_04e18e3745ea0ab6.png" tvg-id="1277",NL┃ ZIGGO SPORT 5 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_04e18e3745ea0ab6.png" tvg-id="1277",NL┃ ZIGGO SPORT 5 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1277&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_630935108af89b66.png" tvg-id="1276",NL┃ ZIGGO SPORT 6 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_630935108af89b66.png" tvg-id="1276",NL┃ ZIGGO SPORT 6 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1276&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_1aa29522198c5cfd.png" tvg-id="1275",NL┃ EUROSPORT 1 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_1aa29522198c5cfd.png" tvg-id="1275",NL┃ EUROSPORT 1 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1275&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ab1020c50f3e2b99.png" tvg-id="1274",NL┃ EUROSPORT 2 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ab1020c50f3e2b99.png" tvg-id="1274",NL┃ EUROSPORT 2 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1274&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_12ef3df7092cbe9f.png" tvg-id="1272",NL┃ HORSE AND COUNTRY HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_12ef3df7092cbe9f.png" tvg-id="1272",NL┃ HORSE AND COUNTRY HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1272&extension=ts
 #EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f363bd6f42078ff5.png" tvg-id="1266",☰☰☰☰ NL┃ MUZIEK PAKKET HD ☰☰☰☰
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1266&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_59fa75645514230b.png" tvg-id="1308",NL┃ MTV HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_59fa75645514230b.png" tvg-id="1308",NL┃ MTV HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1308&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_69c1cd0e33209f3d.png" tvg-id="1262",NL┃ XITE HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_69c1cd0e33209f3d.png" tvg-id="1262",NL┃ XITE HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1262&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_aed3a7d0383be94c.png" tvg-id="225531",NL┃ SLAM! HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_aed3a7d0383be94c.png" tvg-id="225531",NL┃ SLAM! HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=225531&extension=ts
 #EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_057adc6bfe44cd90.png" tvg-id="1152812",NL┃ TOP40 TV HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1152812&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_394ed07e70f630cd.png" tvg-id="1261",NL┃ TV538 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_394ed07e70f630cd.png" tvg-id="1261",NL┃ TV538 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1261&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_97ce682e6d023489.png" tvg-id="1260",NL┃ TV ORANJE ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_97ce682e6d023489.png" tvg-id="1260",NL┃ TV ORANJE
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1260&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_fd260c6d6e60833c.png" tvg-id="225515",NL┃ 100% NL TV HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_fd260c6d6e60833c.png" tvg-id="225515",NL┃ 100% NL TV HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=225515&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_cfaf86ccb973f9d2.png" tvg-id="1259",NL┃ 192 TV HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_cfaf86ccb973f9d2.png" tvg-id="1259",NL┃ 192 TV HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1259&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f96c61b7e08024e5.png" tvg-id="1258",NL┃ ONS HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_192tv_60s_hd.png" tvg-id="2449723",NL┃ 192TV 60S HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2449723&extension=ts
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_192tv_70s_hd.png" tvg-id="2449725",NL┃ 192TV 70S HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2449725&extension=ts
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_192tv_80s_hd.png" tvg-id="2449727",NL┃ 192TV 80S HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2449727&extension=ts
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f96c61b7e08024e5.png" tvg-id="1258",NL┃ ONS HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1258&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_121372a899f66355.png" tvg-id="1257",NL┃ MEZZO ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_121372a899f66355.png" tvg-id="1257",NL┃ MEZZO
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1257&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_326e1c65046dfc2c.png" tvg-id="220530",NL┃ RADIO 10 TV ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_326e1c65046dfc2c.png" tvg-id="220530",NL┃ RADIO 10 TV
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=220530&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_9175cd60e0b86d82.png" tvg-id="225516",NL┃ STINGRAY LITE HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_9175cd60e0b86d82.png" tvg-id="225516",NL┃ STINGRAY LITE HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=225516&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_9175cd60e0b86d82.png" tvg-id="1256",NL┃ STINGRAY DJAZZ HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_9175cd60e0b86d82.png" tvg-id="1256",NL┃ STINGRAY DJAZZ HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1256&extension=ts
 #EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f363bd6f42078ff5.png" tvg-id="1255",☰☰☰☰ NL┃ REGIONALE OMROEPEN PAKKET HD ☰☰☰☰
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1255&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_1f09d18cc789689d.png" tvg-id="1254",NL┃ AT5 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_1f09d18cc789689d.png" tvg-id="1254",NL┃ AT5 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1254&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_642a6c83266394a1.png" tvg-id="1253",NL┃ BVN ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_642a6c83266394a1.png" tvg-id="1253",NL┃ BVN
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1253&extension=ts
 #EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_266b927bf5906063.png" tvg-id="1152820",NL┃ TWEE TV HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1152820&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_713a085eb30f08cc.png" tvg-id="701703",NL┃ TV ELLEF HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_713a085eb30f08cc.png" tvg-id="701703",NL┃ TV ELLEF HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=701703&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_7d5f25875099b03f.png" tvg-id="1252",NL┃ L1 LIMBURG ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_7d5f25875099b03f.png" tvg-id="1252",NL┃ L1 LIMBURG
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1252&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_6667d0a757d30aef.png" tvg-id="701702",NL┃ OMROEP VENLO HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_6667d0a757d30aef.png" tvg-id="701702",NL┃ OMROEP VENLO HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=701702&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4d4a55d46506f5dd.png" tvg-id="701706",NL┃ OMROEP P&M HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4d4a55d46506f5dd.png" tvg-id="701706",NL┃ OMROEP P&M HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=701706&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c07aec71ad8b0666.png" tvg-id="701705",NL┃ OMROEP VENRAY HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c07aec71ad8b0666.png" tvg-id="701705",NL┃ OMROEP VENRAY HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=701705&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_8ef7ef5cc32fbbed.png" tvg-id="1251",NL┃ OMROEP BRABANT ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_8ef7ef5cc32fbbed.png" tvg-id="1251",NL┃ OMROEP BRABANT
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1251&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_d1e25d60ad231518.png" tvg-id="1250",NL┃ OMROEP ZEELAND ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_d1e25d60ad231518.png" tvg-id="1250",NL┃ OMROEP ZEELAND
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1250&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_86b6750af27a6fd4.png" tvg-id="1249",NL┃ OMROEP GELDERLAND ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_86b6750af27a6fd4.png" tvg-id="1249",NL┃ OMROEP GELDERLAND
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1249&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_13f7b2e1109b4909.png" tvg-id="1248",NL┃ OMROP FRYSLAN ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_13f7b2e1109b4909.png" tvg-id="1248",NL┃ OMROP FRYSLAN
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1248&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_42d7a2d4e281a57b.png" tvg-id="1247",NL┃ OMROEP TILBURG ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_42d7a2d4e281a57b.png" tvg-id="1247",NL┃ OMROEP TILBURG
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1247&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_400809b8734337b6.png" tvg-id="701704",NL┃ RTV MAASTRICHT HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_400809b8734337b6.png" tvg-id="701704",NL┃ RTV MAASTRICHT HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=701704&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b5d38145d48c8dd.png" tvg-id="1246",NL┃ RTV UTRECHT ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b5d38145d48c8dd.png" tvg-id="1246",NL┃ RTV UTRECHT
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1246&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a94e945f1cab5a06.png" tvg-id="1245",NL┃ RTV DRENTHE ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a94e945f1cab5a06.png" tvg-id="1245",NL┃ RTV DRENTHE
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1245&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_aad4440755810fbf.png" tvg-id="1244",NL┃ RTV NOORD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_aad4440755810fbf.png" tvg-id="1244",NL┃ RTV NOORD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1244&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f5fadb488acc12eb.png" tvg-id="1243",NL┃ RTV OOST ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f5fadb488acc12eb.png" tvg-id="1243",NL┃ RTV OOST
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1243&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_238ef9829cc1bd8e.png" tvg-id="1242",NL┃ TV RIJNMOND ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_238ef9829cc1bd8e.png" tvg-id="1242",NL┃ TV RIJNMOND
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1242&extension=ts
-#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c20415ef2a2a1e50.png" tvg-id="1241",NL┃ TV WEST ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c20415ef2a2a1e50.png" tvg-id="1241",NL┃ TV WEST
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1241&extension=ts
 #EXTINF:-1 group-title="NL┃ NEDERLAND HD" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_9316f5399aade013.png" tvg-id="891535",NL┃ RTV DORDRECHT HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=891535&extension=ts
@@ -839,7 +845,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=225711&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=531930&extension=ts
 #EXTINF:-1 group-title="NL┃ VIAPLAY F1 REPLAY" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a12810ea97451977.png" tvg-id="531914",NL┃ VIAPLAY SCHEMA
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=531914&extension=ts
-#EXTINF:-1 group-title="NL┃ VIAPLAY F1 REPLAY" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a12810ea97451977.png" tvg-id="575526",NL┃ VIAPLAY F1 LAS VEGAS 1STE VRIJE TRAINING HERHALINGEN
+#EXTINF:-1 group-title="NL┃ VIAPLAY F1 REPLAY" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a12810ea97451977.png" tvg-id="575526",NL┃ VIAPLAY F1 QATAR 1STE VRIJE TRAINING HERHALINGEN
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=575526&extension=ts
 #EXTINF:-1 group-title="NL┃ VIAPLAY F1 REPLAY" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a12810ea97451977.png" tvg-id="575525",NL┃ VIAPLAY F1 LAS VEGAS 2DE VRIJE TRAINING HERHALINGEN / SPRINTRACE KWALIFICATIE HERHALINGEN
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=575525&extension=ts
@@ -2855,22 +2861,6 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=237482&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=237483&extension=ts
 #EXTINF:-1 group-title="NL┃ MOVIES | SERIES XL" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_aa4148a2d302a199.png" tvg-id="237484",NL┃ FILM1 DRAMA 8K
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=237484&extension=ts
-#EXTINF:-1 group-title="NL┃ MOVIES | SERIES XL" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f35d8d41ccc17fc7.png" tvg-id="959234",NL┃ RAKUTEN TV TOP FILMS 8K
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=959234&extension=ts
-#EXTINF:-1 group-title="NL┃ MOVIES | SERIES XL" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f35d8d41ccc17fc7.png" tvg-id="761968",NL┃ RAKUTEN TV ACTION 8K
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=761968&extension=ts
-#EXTINF:-1 group-title="NL┃ MOVIES | SERIES XL" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f35d8d41ccc17fc7.png" tvg-id="761969",NL┃ RAKUTEN TV COMEDY 8K
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=761969&extension=ts
-#EXTINF:-1 group-title="NL┃ MOVIES | SERIES XL" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f35d8d41ccc17fc7.png" tvg-id="761970",NL┃ RAKUTEN TV FAMILY 8K
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=761970&extension=ts
-#EXTINF:-1 group-title="NL┃ MOVIES | SERIES XL" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f35d8d41ccc17fc7.png" tvg-id="761971",NL┃ RAKUTEN TV DRAMA 8K
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=761971&extension=ts
-#EXTINF:-1 group-title="NL┃ MOVIES | SERIES XL" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f35d8d41ccc17fc7.png" tvg-id="761972",NL┃ RAKUTEN TV ROMANCE 8K
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=761972&extension=ts
-#EXTINF:-1 group-title="NL┃ MOVIES | SERIES XL" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f35d8d41ccc17fc7.png" tvg-id="761974",NL┃ RAKUTEN TV KERSMIS 8K
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=761974&extension=ts
-#EXTINF:-1 group-title="NL┃ MOVIES | SERIES XL" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f35d8d41ccc17fc7.png" tvg-id="761973",NL┃ RAKUTEN TV SPOTLIGHT 8K
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=761973&extension=ts
 #EXTINF:-1 group-title="NL┃ AMUSEMENT | MUZIEK" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_59fa75645514230b.png" tvg-id="237521",NL┃ MTV 8K
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=237521&extension=ts
 #EXTINF:-1 group-title="NL┃ AMUSEMENT | MUZIEK" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_6c095b1984d50386.png" tvg-id="237510",NL┃ E! ENTERTAINMENT 8K
@@ -2907,6 +2897,12 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=237535&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=237536&extension=ts
 #EXTINF:-1 group-title="NL┃ AMUSEMENT | MUZIEK" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a02e80f75ef52344.png" tvg-id="237538",NL┃ 192TV 8K
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=237538&extension=ts
+#EXTINF:-1 group-title="NL┃ AMUSEMENT | MUZIEK" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_192tv_60s_8k.png" tvg-id="2449722",NL┃ 192TV 60S 8K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2449722&extension=ts
+#EXTINF:-1 group-title="NL┃ AMUSEMENT | MUZIEK" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_192tv_70s_8k.png" tvg-id="2449724",NL┃ 192TV 70S 8K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2449724&extension=ts
+#EXTINF:-1 group-title="NL┃ AMUSEMENT | MUZIEK" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_192tv_80s_8k.png" tvg-id="2449726",NL┃ 192TV 80S 8K
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2449726&extension=ts
 #EXTINF:-1 group-title="NL┃ AMUSEMENT | MUZIEK" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f96c61b7e08024e5.png" tvg-id="237537",NL┃ ONS 8K
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=237537&extension=ts
 #EXTINF:-1 group-title="NL┃ AMUSEMENT | MUZIEK" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_a9330961f15fae1e.png" tvg-id="237534",NL┃ DANCE TRIPPIN 8K
@@ -3259,6 +3255,350 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=392219&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=392221&extension=ts
 #EXTINF:-1 group-title="NL┃ ZIGGO KABEL" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ce4c358d954162e7.png" tvg-id="392214",NL┃ CNN 8K+ UHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=392214&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_1cfbd2cc619623.png" tvg-id="2455508",NL┃ RAKUTEN TV TOP FILMS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455508&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_86696d75b954d6.png" tvg-id="2455337",NL┃ RAKUTEN TV ACTIEFILMS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455337&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_b1b39750a63d87.png" tvg-id="2455338",NL┃ RAKUTEN TV KOMEDIE
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455338&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_3a0e98e974865a.png" tvg-id="2455339",NL┃ RAKUTEN TV DRAMAFILMS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455339&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_bca3cd8717af0c.png" tvg-id="2455340",NL┃ RAKUTEN TV ROMANTIEK
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455340&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_e28267f5b194ca.png" tvg-id="2455341",NL┃ RAKUTEN TV KERSTMIS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455341&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rakt_ddfa0a3e2289.png" tvg-id="2455346",NL┃ FREE MOVIES +
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455346&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rakt_aa29fd33ccf4.png" tvg-id="2455345",NL┃ WESTERNS +
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455345&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_0ea4be07585033.png" tvg-id="2455344",NL┃ GRJNGO - WESTERN FILMS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455344&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_e731d082e0e698.png" tvg-id="2455342",NL┃ LONE STAR
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455342&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_5b29c9cdbb7bc4.png" tvg-id="2455343",NL┃ NOLLY AFRICA HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455343&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_fa69fdb740f7bd.png" tvg-id="2455351",NL┃ RAKUTEN VIKI
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455351&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_7bfbd32fa4392b.png" tvg-id="2455348",NL┃ FILMRISE FREE SERIES
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455348&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_f11ad25cb5d8d2.png" tvg-id="2455356",NL┃ HEARTLAND
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455356&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_6f695f437c1ed6.png" tvg-id="2455355",NL┃ THE BOLD AND THE BEAUTIFUL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455355&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_c91444c4de373a.png" tvg-id="2455357",NL┃ ROOKIE BLUE
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455357&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_1a8f490763f61f.png" tvg-id="2455349",NL┃ Z NATION
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455349&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_e9b90d71f199d9.png" tvg-id="2455347",NL┃ ANDROMEDA
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455347&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_7247f3a3703728.png" tvg-id="2455364",NL┃ FARSCAPE
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455364&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_f420a5c26704b5.png" tvg-id="2455363",NL┃ HERCULES: THE LEGENDARY JOURNEYS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455363&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_85da83e3212e01.png" tvg-id="2455362",NL┃ BIONIC WOMAN
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455362&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_51aa6fde231430.png" tvg-id="2455350",NL┃ HIGHWAY TO HEAVEN
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455350&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_6b1b36cbb04b41.png" tvg-id="2455365",NL┃ HUNTER
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455365&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_44e889affa6759.png" tvg-id="2455359",NL┃ SOAP
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455359&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_72832fdb0ae355.png" tvg-id="2455358",NL┃ MERHABA ARABIC DRAMA
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455358&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_2c8195ca9cdcde.png" tvg-id="2455441",NL┃ STUDIO100 TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455441&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_7688eaf1108160.png" tvg-id="2455440",NL┃ STUDIO100 HITS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455440&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_3ad34b21a57b84.png" tvg-id="2455353",NL┃ MR. BEAN
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455353&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_293d6d1542bdb3.png" tvg-id="2455354",NL┃ MR. BEAN - LIVE ACTION
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455354&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_b5e838b6d6aa3f.png" tvg-id="2455443",NL┃ BABY SHARK TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455443&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_8191fc9e7f5607.png" tvg-id="2455445",NL┃ WINX CLUB TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455445&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_fc75aef4c885f4.png" tvg-id="2455446",NL┃ BARBIE & FRIENDS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455446&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_0bce7e4d2aee3e.png" tvg-id="2455444",NL┃ CAR CITY ADVENTURES
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455444&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_16a5c75ce8475d.png" tvg-id="2455352",NL┃ YU-GI-OH!
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455352&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_59b5905df9db59.png" tvg-id="2455361",NL┃ NARUTO CHANNEL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455361&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_3093f6ecfd1804.png" tvg-id="2455442",NL┃ MOJITV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455442&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_6253b130406fc2.png" tvg-id="2455449",NL┃ HELL'S KITCHEN
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455449&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_2fd94dddc68c9d.png" tvg-id="2455457",NL┃ COME DINE WITH ME
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455457&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_f8e600f5cfc7ee.png" tvg-id="2455462",NL┃ DEAL OR NO DEAL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455462&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_87579b9322f39e.png" tvg-id="2455379",NL┃ THE CUBE
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455379&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_bbe16044068fe2.png" tvg-id="2455372",NL┃ TIPPING POINT
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455372&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_8d7fc0796d645e.png" tvg-id="2455459",NL┃ DANCE MOMS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455459&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_a249b1f77951f5.png" tvg-id="2455460",NL┃ THE OSBOURNES
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455460&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_5ec2ef62f1d9d8.png" tvg-id="2455461",NL┃ HARDCORE PAWN
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455461&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_fee6f6f4b12097.png" tvg-id="2455456",NL┃ DON'T TELL THE BRIDE
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455456&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_7942112e633996.png" tvg-id="2455463",NL┃ FOUR IN A BED
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455463&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_04b3dd67b06953.png" tvg-id="2455469",NL┃ TATTOO FIXERS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455469&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_a68708a58811a2.png" tvg-id="2455470",NL┃ OBSESSIVE COMPULSIVE CLEANERS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455470&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_516cc19a8d5966.png" tvg-id="2455376",NL┃ MYTHBUSTERS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455376&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_dc082886cf8952.png" tvg-id="2455360",NL┃ FIFTH GEAR
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455360&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_5ca1c6dbb375a6.png" tvg-id="2455447",NL┃ AX MEN
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455447&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_32d64d12b720d5.png" tvg-id="2455448",NL┃ WICKED TUNA
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455448&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_5b9ffa5f310fea.png" tvg-id="2455450",NL┃ ICE ROAD TRUCKERS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455450&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_ef7e62759eb8b8.png" tvg-id="2455451",NL┃ HIGHWAY THRU HELL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455451&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_1da981e72265d4.png" tvg-id="2455452",NL┃ ICE PILOTS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455452&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_afeb186bed48fb.png" tvg-id="2455453",NL┃ JADE FEVER
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455453&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_df82de82e5ba95.png" tvg-id="2455458",NL┃ OPERATION REPO
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455458&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_f15d63ebc6ed1c.png" tvg-id="2455464",NL┃ GONE FISHING
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455464&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_d105f328e9c987.png" tvg-id="2455371",NL┃ FAIL ARMY
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455371&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_c7e0ec72e4f1eb.png" tvg-id="2455367",NL┃ PEOPLE ARE AWESOME
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455367&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_eb3bdb70b76c50.png" tvg-id="2455366",NL┃ THE PET COLLECTIVE
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455366&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_89b4d4d25f41f7.png" tvg-id="2455374",NL┃ LOVE PETS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455374&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_2983db9a1e65e6.png" tvg-id="2455377",NL┃ COMEDY STATION
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455377&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rakt_324296cd4401.png" tvg-id="2455378",NL┃ 800 POUND GORILLA
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455378&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_a08af0baca3d84.png" tvg-id="2455375",NL┃ Z ONE
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455375&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_90b495bece4cd4.png" tvg-id="2455465",NL┃ INFAST
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455465&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_d33efbbe108970.png" tvg-id="2455496",NL┃ YOULOOK FAME
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455496&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_185b1793f90ef8.png" tvg-id="2455369",NL┃ PR1DE FREE
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455369&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_41d99c8627aad2.png" tvg-id="2455370",NL┃ REVRY
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455370&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_97e3c0b8e69fe0.png" tvg-id="2455471",NL┃ REAL CRIME
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455471&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_f6477159b4d4bf.png" tvg-id="2455472",NL┃ FORENSIC FILES
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455472&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_aa6010a61f4750.png" tvg-id="2455474",NL┃ TRUE CRIME NOW
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455474&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_ba81b3af649673.png" tvg-id="2455480",NL┃ AMERICAN CRIME CHANNEL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455480&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_590db90a8f5697.png" tvg-id="2455481",NL┃ EURO CRIME CHANNEL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455481&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_9f30a97d70a56c.png" tvg-id="2455482",NL┃ THE FBI FILES
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455482&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_867686918eea63.png" tvg-id="2455483",NL┃ THE NEW DETECTIVES
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455483&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_6906a05bfc8b87.png" tvg-id="2455476",NL┃ CRIME SCENE SOLVERS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455476&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_e6eb4d5d8e07b3.png" tvg-id="2455477",NL┃ UNSOLVED MYSTERIES
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455477&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_f8758c7ce03346.png" tvg-id="2455478",NL┃ BUZZFEED UNSOLVED
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455478&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_2b69d7128f0908.png" tvg-id="2455473",NL┃ AFTERSHOCK HOMICIDE HUNTER
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455473&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_637304a0035c0c.png" tvg-id="2455475",NL┃ DR. G: MEDICAL EXAMINER
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455475&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_651fa640573e21.png" tvg-id="2455485",NL┃ DEADLY WOMEN
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455485&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_4c3143d9b2de66.png" tvg-id="2455479",NL┃ WOMEN BEHIND BARS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455479&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_1f6ae45b97df51.png" tvg-id="2455454",NL┃ COPS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455454&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_be68e9cc52fbcb.png" tvg-id="2455468",NL┃ COPS RELOADED
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455468&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_253714b0fff07d.png" tvg-id="2455455",NL┃ JAIL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455455&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_181d441165f43e.png" tvg-id="2455466",NL┃ 60 DAYS IN JAIL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455466&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_728826977abaa5.png" tvg-id="2455467",NL┃ DOG THE BOUNTY HUNTER
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455467&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_28f4041269731d.png" tvg-id="2455484",NL┃ A HAUNTING
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455484&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_b1a3f5eb1305d4.png" tvg-id="2455486",NL┃ PARANORMAL CHRONICLES
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455486&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_253226b84ea92c.png" tvg-id="2455487",NL┃ RAKUTEN TV DOCUMENTAIRES
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455487&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_2d1f776316645c.png" tvg-id="2455488",NL┃ HISTORY HIT
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455488&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_4712264ebdfd30.png" tvg-id="2455489",NL┃ REAL WILD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455489&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_996224852330cc.png" tvg-id="2455491",NL┃ NATURE TIME
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455491&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_e6211b56be135c.png" tvg-id="2455492",NL┃ WATERBEAR
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455492&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_0d5dc17fc17c42.png" tvg-id="2455493",NL┃ ADVENTURE EARTH
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455493&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_66fd46d4959ea8.png" tvg-id="2455494",NL┃ COSMIC FRONTIERS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455494&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_65db04c7d95b15.png" tvg-id="2455495",NL┃ CGTN DOCUMENTARY
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455495&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_3a3dc67209e7a9.png" tvg-id="2455490",NL┃ WEATHER SPY
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455490&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_28c03ef24655bd.png" tvg-id="2455400",NL┃ RED BULL TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455400&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_2962479619ffbc.png" tvg-id="2455381",NL┃ FIFA+
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455381&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_e6632f63ce3c1142.png" tvg-id="2455393",NL┃ DAZN RINGSIDE
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455393&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_4e97241e6b8899.png" tvg-id="2455391",NL┃ EUROVISION SPORT
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455391&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_fb624623cd8e53.png" tvg-id="2455402",NL┃ TENNIS TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455402&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_de7392848f07d5.png" tvg-id="2455401",NL┃ TENNIS+
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455401&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_ba9e42353a9b49.png" tvg-id="2455404",NL┃ NASCAR
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455404&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_92b082cfedcced.png" tvg-id="2455380",NL┃ BARÇA 24H ENGLISH
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455380&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_bbc45ee49dc11b.png" tvg-id="2455382",NL┃ MAN CITY 24/7
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455382&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_6192426092843e.png" tvg-id="2455383",NL┃ INTER 24/7
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455383&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_9e5187a03032b4.png" tvg-id="2455384",NL┃ RALLY.TV FAST+
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455384&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_e242edc94e4db0.png" tvg-id="2455392",NL┃ MOTOR RACING
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455392&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_89e1f3378bb9fb.png" tvg-id="2455385",NL┃ FUEL TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455385&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_27c702589e7792.png" tvg-id="2455399",NL┃ RACER INTERNATIONAL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455399&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_3fb6426fec9eee.png" tvg-id="2455388",NL┃ GLORY KICKBOXING
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455388&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_36b750932c2082.png" tvg-id="2455394",NL┃ PFL MMA
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455394&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_9e9cc8117e307b.png" tvg-id="2455387",NL┃ TNA WRESTLING CHANNEL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455387&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_92808de1d62216.png" tvg-id="2455368",NL┃ MONSTER JAM
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455368&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_b0ecd125fc7ca8.png" tvg-id="2455389",NL┃ WORLD POKER TOUR
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455389&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_feb9264560f596.png" tvg-id="2455390",NL┃ WORLD SURF LEAGUE 24/7
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455390&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_83946fe5722355.png" tvg-id="2455395",NL┃ STRONGMAN CHAMPIONS LEAGUE
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455395&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_06bc8a173a2eb8.png" tvg-id="2455386",NL┃ WORLD BILLIARDS TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455386&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_b13877d611171e.png" tvg-id="2455398",NL┃ GLOBAL CHAMPIONS TOUR
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455398&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_67acb1e97cd114.png" tvg-id="2455397",NL┃ WORLD OF FREESPORTS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455397&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_38d8e51dfedadf.png" tvg-id="2455396",NL┃ SPORTS FIRST TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455396&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_d1a135713d0e82.png" tvg-id="2455403",NL┃ FREE LIVE SPORTS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455403&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_9b5f3ee66d9eaf.png" tvg-id="2455405",NL┃ THE BOAT SHOW
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455405&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_d78ef40ceb7eb5.png" tvg-id="2455420",NL┃ GUSTO TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455420&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_3176f057b22d1a.png" tvg-id="2455421",NL┃ SATURDAY KITCHEN
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455421&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_cde2301b06280e.png" tvg-id="2455373",NL┃ GREAT BRITISH MENU
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455373&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_f24c81f52053e4.png" tvg-id="2455422",NL┃ PROEF NJAM!
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455422&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_c4ed3700e76e14.png" tvg-id="2455406",NL┃ FASHION TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455406&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_40b8a038a61630.png" tvg-id="2455407",NL┃ THE DESIGN NETWORK
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455407&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_3420531ab11bdf.png" tvg-id="2455408",NL┃ MILLION DOLLAR DREAM HOME
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455408&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_fd17c652fce198.png" tvg-id="2455416",NL┃ HOMES UNDER THE HAMMER
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455416&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_37178200056af7.png" tvg-id="2455417",NL┃ ROOM TO IMPROVE
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455417&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_959917e3f41c4c.png" tvg-id="2455409",NL┃ GARDEN RESCUE
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455409&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_7b0a7aa6977dc1.png" tvg-id="2455410",NL┃ HOMEFUL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455410&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_2236fd9b337673.png" tvg-id="2455411",NL┃ TRAVELXP
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455411&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_7450ebc51121b0.png" tvg-id="2455414",NL┃ INTRAVEL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455414&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_f25da11fb9afed.png" tvg-id="2455413",NL┃ CHINA TRAVEL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455413&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_8807d9a2bc2551.png" tvg-id="2455415",NL┃ STINGRAY NATURESCAPE
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455415&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_a7af98204c83a8.png" tvg-id="2455412",NL┃ MED.TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455412&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_37cf9ac2b2e556.png" tvg-id="2455432",NL┃ TMF
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455432&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_303c8751aeaad9.png" tvg-id="2455438",NL┃ STINGRAY SOFT HITS NETHERLANDS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455438&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_02316264bdd58d.png" tvg-id="2455439",NL┃ STINGRAY: PIRATEN HITS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455439&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_e873799fec856e.png" tvg-id="2455426",NL┃ STINGRAY GREATEST HITS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455426&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_6cb149e9216c98.png" tvg-id="2455427",NL┃ STINGRAY: HITLIST
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455427&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_35d084ce370db1.png" tvg-id="2455428",NL┃ STINGRAY: REMEMBER THE 80'S
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455428&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_31cc9aa3d77d5c.png" tvg-id="2455429",NL┃ YOUR 60'S
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455429&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_3426069656689c.png" tvg-id="2455430",NL┃ YOUR 70'S
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455430&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_ba8312cafeca1d.png" tvg-id="2455431",NL┃ YOUR 80'S
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455431&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_837fbbccdd9927.png" tvg-id="2455434",NL┃ THAT'S 80S
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455434&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_ee52457123fae2.png" tvg-id="2455436",NL┃ THAT'S 90S00S
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455436&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_46c36d0613ea4d.png" tvg-id="2455435",NL┃ THAT'S ROCK
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455435&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_4c93914dfc9b8d.png" tvg-id="2455433",NL┃ THAT'S CHRISTMAS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455433&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_ec0a574229953d.png" tvg-id="2455437",NL┃ QELLO CONCERTS BY STINGRAY
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455437&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_dd97506e6a5d22.png" tvg-id="2455424",NL┃ QWEST TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455424&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_3e708a43415587.png" tvg-id="2455425",NL┃ DELUXE LOUNGE HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455425&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_e57ca6a6dffa00.png" tvg-id="2455423",NL┃ METAL.ROCKS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455423&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_03e7a49143292f.png" tvg-id="2455497",NL┃ EURONEWS LIVE
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455497&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_04097a82cb1f78.png" tvg-id="2455499",NL┃ DW
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455499&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_d3c21e468141fa.png" tvg-id="2455507",NL┃ FRANCE 24 FAST ENGLISH
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455507&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_5399849f45f4b3.png" tvg-id="2455501",NL┃ BLOOMBERG TV+
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455501&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_2b056c4c9d2f0e.png" tvg-id="2455500",NL┃ BLOOMBERG ORIGINALS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455500&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_fb1e189e0c1e2a.png" tvg-id="2455498",NL┃ THE REUTERS 60
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455498&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_455fa5882044e0.png" tvg-id="2455503",NL┃ CGTN
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455503&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_023d36dba64924.png" tvg-id="2455506",NL┃ CGTN GLOBAL BIZ
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455506&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_ad6ea016c8dc36.png" tvg-id="2455505",NL┃ CNA ORIGINALS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455505&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_3cae243c70c372.png" tvg-id="2455502",NL┃ AFRICANEWS
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455502&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_8b8ff86b50a489.png" tvg-id="2455504",NL┃ NEWSWORLD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455504&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_2e13ec6426af80.png" tvg-id="2455419",NL┃ DAYSTAR TV
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455419&extension=ts
+#EXTINF:-1 group-title="NL┃ RAKUTEN TV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_rak_0c06d0a6bacfd5.png" tvg-id="2455418",NL┃ DAYSTAR ESPAÑOL
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=2455418&extension=ts
 #EXTINF:-1 group-title="NL┃ F1 TV PRO" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_f363bd6f42078ff5.png" tvg-id="268003",☰☰☰☰ FORMULA 1 | MOTOGP ☰☰☰☰
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=268003&extension=ts
 #EXTINF:-1 group-title="NL┃ F1 TV PRO" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_e98ebc59c0ab16ee.png" tvg-id="764193",F1 TV┃ F1 TV PRO HD [OLAV MOL]
@@ -3325,39 +3665,39 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=36287&ex
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=36286&extension=ts
 #EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141382",☰☰☰☰ PPV LIVE EVENT┃ ☰☰☰☰
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141382&extension=ts
-#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141417",LIVE EVENT 01 - 8:30am ONE Friday Fights 180
+#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141417",LIVE EVENT 01 - 5pm WWE Survivor Series War Games
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141417&extension=ts
-#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141416",LIVE EVENT 02 - 8:40am Cruz v Subkhankulov
+#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141416",LIVE EVENT 02 - (SD) WWE Survivor Series War Games
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141416&extension=ts
-#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141415",LIVE EVENT 03 - 10:30am Odiase v Perez
+#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141415",LIVE EVENT 03 - 3am Eternal MMA 113
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141415&extension=ts
-#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141414",LIVE EVENT 04 - 11am Mix Fight 59 Zakarian v Mohamad
+#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141414",LIVE EVENT 04 - 10am Prelims Kabayel v Hysa
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141414&extension=ts
-#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141413",LIVE EVENT 05 - 1pm Cage Warriors 214: Unplugged
+#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141413",LIVE EVENT 05 - 11am Musas Fight Night 4 Loriga v Cariaco
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141413&extension=ts
-#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141412",LIVE EVENT 06 - 12pm Thor Mini O's Gatorback
+#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141412",LIVE EVENT 06 - 12pm KOK Fight Night
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141412&extension=ts
-#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141411",LIVE EVENT 07 - 1pm 4 Cyl Nationals Cherokee
+#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141411",LIVE EVENT 07 - 12pm Memphis Wrestling Thanksgiving Little Boogeyman
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141411&extension=ts
-#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141410",LIVE EVENT 08 - 6:30pm USAC Turkey Night Grand Prix Ventura
+#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141410",LIVE EVENT 08 - 1pm Kabayel v Hysa
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141410&extension=ts
-#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141409",LIVE EVENT 09 - NO EVENT
+#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141409",LIVE EVENT 09 - 1/3:30pm Cage Warriors 215
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141409&extension=ts
-#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141408",LIVE EVENT 10 - NO EVENT
+#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141408",LIVE EVENT 10 - 2pm Glory Rivals 6
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141408&extension=ts
-#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141407",LIVE EVENT 11 - NO EVENT
+#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141407",LIVE EVENT 11 - 2pm True Grit Wrestling Test Your Mettle
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141407&extension=ts
-#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141406",LIVE EVENT 12 - NO EVENT
+#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141406",LIVE EVENT 12 - 7pm ACW November Reign
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141406&extension=ts
-#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141405",LIVE EVENT 13 - NO EVENT
+#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141405",LIVE EVENT 13 - 10pm MMA Mexico 10
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141405&extension=ts
 #EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141404",LIVE EVENT 14 - NO EVENT
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141404&extension=ts
 #EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141403",LIVE EVENT 15 - NO EVENT
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141403&extension=ts
-#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141402",LIVE EVENT 16 - NO EVENT
+#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141402",LIVE EVENT 16 - 1pm 4 Cylinder Nationals Cherokee
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141402&extension=ts
-#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141401",LIVE EVENT 17 - NO EVENT
+#EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141401",LIVE EVENT 17 - 6:15pm USAC Turkey Night Grand Prix Ventura
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141401&extension=ts
 #EXTINF:-1 group-title="PPV┃ PAY PER VIEW" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c93a34f62ca68533.png" tvg-id="1141400",LIVE EVENT 18 - NO EVENT
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1141400&extension=ts
@@ -3509,11 +3849,11 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1091523&
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1972846&extension=ts
 #EXTINF:-1 group-title="PPV┃ TENNIS PPV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png" tvg-id="1972847",PPV┃ TENNIS CHANNEL FHD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1972847&extension=ts
-#EXTINF:-1 group-title="PPV┃ TENNIS PPV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png" tvg-id="1972796",Fery, Arthur vs Zverev, Alexander @ Nov 26 12:00 PM - Davis Cup :Tennis  01
+#EXTINF:-1 group-title="PPV┃ TENNIS PPV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png" tvg-id="1972796",Italy vs Czech Republic @ Nov 27 16:00 PM - Davis Cup :Tennis  01
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1972796&extension=ts
-#EXTINF:-1 group-title="PPV┃ TENNIS PPV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png" tvg-id="1972797",Austria vs Spain - Davis Cup :Tennis  02
+#EXTINF:-1 group-title="PPV┃ TENNIS PPV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png" tvg-id="1972797",:Tennis  02
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1972797&extension=ts
-#EXTINF:-1 group-title="PPV┃ TENNIS PPV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png" tvg-id="1972798",Patten H, Skupski N vs Krawietz K, Puetz T - Davis Cup :Tennis  03
+#EXTINF:-1 group-title="PPV┃ TENNIS PPV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png" tvg-id="1972798",:Tennis  03
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1972798&extension=ts
 #EXTINF:-1 group-title="PPV┃ TENNIS PPV" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_b6544e76096de2e6.png" tvg-id="1972799",:Tennis  04
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1972799&extension=ts
@@ -10789,47 +11129,47 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=396870&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=396869&extension=ts
 #EXTINF:-1 group-title="UK┃ SUPERSPORT" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_43902c5e7b8ff9b2.png" tvg-id="396868",UK┃ SUPERSPORT ACTION HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=396868&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_7fb15f85d2141e59.png" tvg-id="595798",IE┃ RTE ONE HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_7fb15f85d2141e59.png" tvg-id="595798",IE┃ RTE ONE HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=595798&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_7fb15f85d2141e59.png" tvg-id="595787",IE┃ RTE ONE +1 ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_7fb15f85d2141e59.png" tvg-id="595787",IE┃ RTE ONE +1
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=595787&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_20a1e4858d11f065.png" tvg-id="595797",IE┃ RTE TWO HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_20a1e4858d11f065.png" tvg-id="595797",IE┃ RTE TWO HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=595797&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_20a1e4858d11f065.png" tvg-id="595786",IE┃ RTE TWO +1 ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_20a1e4858d11f065.png" tvg-id="595786",IE┃ RTE TWO +1
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=595786&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_1d61e7e1ebbb4c1a.png" tvg-id="595792",IE┃ VIRGIN MEDIA ONE HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_1d61e7e1ebbb4c1a.png" tvg-id="595792",IE┃ VIRGIN MEDIA ONE HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=595792&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_1d61e7e1ebbb4c1a.png" tvg-id="595785",IE┃ VIRGIN MEDIA ONE +1 ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_1d61e7e1ebbb4c1a.png" tvg-id="595785",IE┃ VIRGIN MEDIA ONE +1
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=595785&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_47b4359c23066a2a.png" tvg-id="595789",IE┃ VIRGIN MEDIA TWO HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_47b4359c23066a2a.png" tvg-id="595789",IE┃ VIRGIN MEDIA TWO HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=595789&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2b80a945bd43782e.png" tvg-id="595791",IE┃ VIRGIN MEDIA THREE HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2b80a945bd43782e.png" tvg-id="595791",IE┃ VIRGIN MEDIA THREE HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=595791&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ab4169323218f0cc.png" tvg-id="595790",IE┃ VIRGIN MEDIA FOUR HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ab4169323218f0cc.png" tvg-id="595790",IE┃ VIRGIN MEDIA FOUR HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=595790&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_14d559b148485b24.png" tvg-id="833701",IE┃ BBC ONE NORTHERN IRELAND HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_14d559b148485b24.png" tvg-id="833701",IE┃ BBC ONE NORTHERN IRELAND HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=833701&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ff51eb5f915bb900.png" tvg-id="833703",IE┃ ITV NORTHERN IRELAND HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ff51eb5f915bb900.png" tvg-id="833703",IE┃ ITV NORTHERN IRELAND HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=833703&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_29e01df33169bad2.png" tvg-id="833702",IE┃ CHANNEL 4 NORTHERN IRELAND HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_29e01df33169bad2.png" tvg-id="833702",IE┃ CHANNEL 4 NORTHERN IRELAND HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=833702&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ddd1a685066f8b2e.png" tvg-id="595793",IE┃ TG4 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ddd1a685066f8b2e.png" tvg-id="595793",IE┃ TG4 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=595793&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c690b0ca71a8ef17.png" tvg-id="595794",IE┃ S4C HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_c690b0ca71a8ef17.png" tvg-id="595794",IE┃ S4C HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=595794&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_e8882990d98ba4d5.png" tvg-id="595799",IE┃ RTE NEWS ⏺ʳᵉ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_e8882990d98ba4d5.png" tvg-id="595799",IE┃ RTE NEWS
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=595799&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ce4c358d954162e7.png" tvg-id="595796",IE┃ CNN HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ce4c358d954162e7.png" tvg-id="595796",IE┃ CNN HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=595796&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3f33d4c3875842de.png" tvg-id="833704",IE┃ BBC NEWS HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3f33d4c3875842de.png" tvg-id="833704",IE┃ BBC NEWS HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=833704&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_425b73d40b360a5f.png" tvg-id="833705",IE┃ SKY NEWS HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_425b73d40b360a5f.png" tvg-id="833705",IE┃ SKY NEWS HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=833705&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_e59ef5f82baeea3c.png" tvg-id="595784",IE┃ GB NEWS HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_e59ef5f82baeea3c.png" tvg-id="595784",IE┃ GB NEWS HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=595784&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ce3e30047ebf5ad6.png" tvg-id="833699",IE┃ PREMIER SPORTS 1 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ce3e30047ebf5ad6.png" tvg-id="833699",IE┃ PREMIER SPORTS 1 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=833699&extension=ts
-#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ce3e30047ebf5ad6.png" tvg-id="833700",IE┃ PREMIER SPORTS 2 HD ⏺ʳᵉᶜ
+#EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_ce3e30047ebf5ad6.png" tvg-id="833700",IE┃ PREMIER SPORTS 2 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=833700&extension=ts
 #EXTINF:-1 group-title="IE┃ IRELAND HD | REPLAY  ⏺" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3dc3b979a3d8dc0d.png" tvg-id="595788",IE┃ RANGERS TV HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=595788&extension=ts
@@ -14909,27 +15249,27 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1365358&
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1365359&extension=ts
 #EXTINF:-1 group-title="USA┃ NBA LEAGUE PASS" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1365360",USA┃ NBA LEAGUE PASS 15
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1365360&extension=ts
-#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118739",Philadelphia 76ers vs Miami Heat  @ Nov 25 5:00 PM :NBA  01
+#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118739",New York Knicks vs Miami Heat @ Nov 27 7:00 PM :NBA  01
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1118739&extension=ts
-#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118740",Charlotte Hornets vs Chicago Bulls @ Nov 25 7:00 PM :NBA  02
+#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118740",Detroit Pistons vs Milwaukee Bucks @ Nov 27 7:30 PM :NBA  02
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1118740&extension=ts
-#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118741",New York Knicks vs Cleveland Cavaliers @ Nov 25 7:30 PM :NBA  03
+#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118741",Indiana Pacers vs Philadelphia 76ers @ Nov 27 7:30 PM :NBA  03
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1118741&extension=ts
-#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118742",Oklahoma City Thunder vs Minnesota Timberwolves @ Nov 25 7:30 PM :NBA  04
+#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118742",Toronto Raptors vs Brooklyn Nets (Raptors) @ Nov 27 7:30 PM :NBA  04
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1118742&extension=ts
-#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118743",Memphis Grizzlies vs LA Clippers @ Nov 25 8:00 PM :NBA  05
+#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118743",Boston Celtics vs Atlanta Hawks @ Nov 27 8:00 PM :NBA  05
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1118743&extension=ts
-#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118744",Milwaukee Bucks vs Brooklyn Nets @ Nov 25 8:00 PM :NBA  06
+#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118744",Minnesota Timberwolves vs Memphis Grizzlies @ Nov 27 8:30 PM :NBA  06
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1118744&extension=ts
-#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118745",Houston Rockets vs Phoenix Suns @ Nov 25 8:30 PM :NBA  07
+#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118745",Phoenix Suns vs Dallas Mavericks @ Nov 27 9:00 PM :NBA  07
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1118745&extension=ts
-#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118746",Golden State Warriors vs Sacramento Kings @ Nov 25 10:00 PM :NBA  08
+#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118746",San Antonio Spurs vs Los Angeles Lakers @ Nov 27 9:30 PM :NBA  08
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1118746&extension=ts
-#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118747",Portland Trail Blazers vs San Antonio Spurs  @ Nov 25 10:00 PM :NBA  09
+#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118747",Utah Jazz vs Denver Nuggets @ Nov 27 9:30 PM :NBA  09
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1118747&extension=ts
-#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118748",:NBA  10
+#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118748",LA Clippers vs New Orleans Pelicans @ Nov 27 9:30 PM :NBA  10
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1118748&extension=ts
-#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118749",:NBA  11
+#EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118749",Portland Trail Blazers vs Golden State Warriors @ Nov 27 9:30 PM :NBA  11
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1118749&extension=ts
 #EXTINF:-1 group-title="USA┃ NBA PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_af3e86ad182bc8b0.png" tvg-id="1118750",:NBA  12
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1118750&extension=ts
@@ -15037,35 +15377,35 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=569230&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=569229&extension=ts
 #EXTINF:-1 group-title="USA┃ NBA REPLAY" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_e66fd85bbe4e930b.png" tvg-id="569228",US┃ NBA REPLAY 17 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=569228&extension=ts
-#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120139",NHL | 01 - 1pm Maple Leafs @ Bruins
+#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120139",NHL | 01 - 4pm Canadiens @ Golden Knights
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1120139&extension=ts
-#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120140",NHL | 02 - 1pm Flames @ Devils
+#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120140",NHL | 02 - 6pm Lightning @ Panthers
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1120140&extension=ts
-#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120141",NHL | 03 - 1pm Mammoth @ Predators
+#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120141",NHL | 03 - 7pm Predators @ Red Wings
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1120141&extension=ts
-#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120142",NHL | 04 - 2pm Stars @ Blues
+#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120142",NHL | 04 - 7pm Jets @ Devils
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1120142&extension=ts
-#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120143",NHL | 05 - 3pm Senators @ Lightning
+#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120143",NHL | 05 - 7pm Flames @ Rangers
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1120143&extension=ts
-#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120144",NHL | 06 - 3pm Canucks @ Flyers
+#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120144",NHL | 06 - 7pm Maple Leafs @ Penguins
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1120144&extension=ts
-#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120145",NHL | 07 - 3pm Panthers @ Capitals
+#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120145",NHL | 07 - 7pm Senators @ Hurricanes
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1120145&extension=ts
-#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120146",NHL | 08 - 3pm Red Wings @ Blue Jackets
+#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120146",NHL | 08 - 7pm Capitals @ Blues
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1120146&extension=ts
-#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120147",NHL | 09 - 4pm Avalanche @ Wild
+#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120147",NHL | 09 - 7:30pm Islanders @ Flyers
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1120147&extension=ts
-#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120148",NHL | 10 - 4pm Kings @ Ducks
+#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120148",NHL | 10 - 8pm Mammoth @ Stars
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1120148&extension=ts
-#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120149",NHL | 11 - 4pm Golden Knights @ Sharks
+#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120149",NHL | 11 - 9pm Sharks @ Avalanche
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1120149&extension=ts
-#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120150",NHL | 12 - 5:30pm Rangers @ Blackhawks
+#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120150",NHL | 12 - 9pm Ducks @ Kings
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1120150&extension=ts
-#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120151",NHL | 13 - 5:30pm Rangers @ Blackhawks
+#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120151",NHL | 13 - 10pm Oilers @ Kraken
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1120151&extension=ts
-#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120152",NHL | 14 - 8pm Penguins @ Sabres
+#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120152",NHL | 14 -
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1120152&extension=ts
-#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120153",NHL | 15 - 8pm Kraken @ Oilers
+#EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120153",NHL | 15 -
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1120153&extension=ts
 #EXTINF:-1 group-title="USA┃ NHL PPV VIP" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_3529945d1947b9fa.png" tvg-id="1120154",NHL | 16 -
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1120154&extension=ts
@@ -15511,19 +15851,19 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1366777&
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1366776&extension=ts
 #EXTINF:-1 group-title="USA┃ MILB" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_2ffa91b1400744f1.png" tvg-id="1366775",:Milb  100
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=1366775&extension=ts
-#EXTINF:-1 group-title="USA┃ MLS APPLE TV+" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b72bd22cc64a209.png" tvg-id="861596",San Jose Earthquakes vs Houston Dynamo FC @ Nov 24 10:15 PM :MLS  01
+#EXTINF:-1 group-title="USA┃ MLS APPLE TV+" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b72bd22cc64a209.png" tvg-id="861596",The Kid From Philly @ :MLS  01
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=861596&extension=ts
-#EXTINF:-1 group-title="USA┃ MLS APPLE TV+" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b72bd22cc64a209.png" tvg-id="861597",:MLS  02
+#EXTINF:-1 group-title="USA┃ MLS APPLE TV+" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b72bd22cc64a209.png" tvg-id="861597",MLS Young Player of the Year @ :MLS  02
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=861597&extension=ts
-#EXTINF:-1 group-title="USA┃ MLS APPLE TV+" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b72bd22cc64a209.png" tvg-id="861598",:MLS  03
+#EXTINF:-1 group-title="USA┃ MLS APPLE TV+" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b72bd22cc64a209.png" tvg-id="861598",MLS Cup On Film @ :MLS  03
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=861598&extension=ts
-#EXTINF:-1 group-title="USA┃ MLS APPLE TV+" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b72bd22cc64a209.png" tvg-id="861599",:MLS  04
+#EXTINF:-1 group-title="USA┃ MLS APPLE TV+" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b72bd22cc64a209.png" tvg-id="861599",MLS Countdown @ Nov 27 7:15 PM :MLS  04
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=861599&extension=ts
-#EXTINF:-1 group-title="USA┃ MLS APPLE TV+" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b72bd22cc64a209.png" tvg-id="861600",:MLS  05
+#EXTINF:-1 group-title="USA┃ MLS APPLE TV+" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b72bd22cc64a209.png" tvg-id="861600",Columbus Crew vs Inter Miami CF @ Nov 27 8:00 PM :MLS  05
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=861600&extension=ts
-#EXTINF:-1 group-title="USA┃ MLS APPLE TV+" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b72bd22cc64a209.png" tvg-id="861601",:MLS  06
+#EXTINF:-1 group-title="USA┃ MLS APPLE TV+" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b72bd22cc64a209.png" tvg-id="861601",Real Salt Lake vs Vancouver Whitecaps FC @ Nov 27 9:45 PM :MLS  06
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=861601&extension=ts
-#EXTINF:-1 group-title="USA┃ MLS APPLE TV+" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b72bd22cc64a209.png" tvg-id="861602",:MLS  07
+#EXTINF:-1 group-title="USA┃ MLS APPLE TV+" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b72bd22cc64a209.png" tvg-id="861602",MLS Wrap Up⁩ @ Nov 28 12:45 AM :MLS  07
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=861602&extension=ts
 #EXTINF:-1 group-title="USA┃ MLS APPLE TV+" tvg-logo="https://cover.mauve-cdn.net/LIVE/LOGOS/T1_4b72bd22cc64a209.png" tvg-id="861603",:MLS  08
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:02:82&stream=861603&extension=ts
